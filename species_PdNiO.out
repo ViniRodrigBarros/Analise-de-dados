@@ -1,0 +1,3320 @@
+Timestep No_Moles No_Specs Ni207 Pd745 O2
+100        202          3	 1	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+200        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+300        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+400        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+500        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+600        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+700        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+800        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+900        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni207	O2	
+1000        201          2	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni194	Ni	O2	
+1100        214          3	 1	 13	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni194	Ni	O2	
+1200        214          3	 1	 13	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+1300        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+1400        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+1500        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+1600        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194	Ni	O2	
+1700        214          3	 1	 13	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni194	Ni	O2	
+1800        214          3	 1	 13	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni194	Ni	O2	
+1900        214          3	 1	 13	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+2000        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni190	Ni	Ni2	O2	
+2100        217          4	 1	 15	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni190	Ni	Ni2	O2	
+2200        217          4	 1	 15	 1	 200	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O4	Ni	Ni2	O2	
+2300        215          4	 1	 15	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O2	Ni	Ni2	O2	
+2400        216          4	 1	 15	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O4	Ni	Ni2	O2	
+2500        215          4	 1	 15	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O4	Ni	Ni2	O2	
+2600        215          4	 1	 15	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O4	Ni	Ni2	O2	
+2700        215          4	 1	 15	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O4	Ni	Ni2	O2	
+2800        215          4	 1	 15	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O2	Ni	Ni2	O2	
+2900        216          4	 1	 15	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O4	Ni	Ni2	O2	
+3000        215          4	 1	 15	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3100        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3200        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3300        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3400        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O2	Ni	Ni2	O2	
+3500        217          4	 1	 16	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3600        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3700        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3800        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+3900        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O4	Ni	Ni2	O2	
+4000        216          4	 1	 16	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+4100        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+4200        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+4300        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+4400        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+4500        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+4600        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+4700        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+4800        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+4900        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+5000        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5100        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5200        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5300        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5400        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5500        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5600        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5700        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5800        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+5900        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O2	Ni	Ni2	O2	
+6000        210          4	 1	 9	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6100        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6200        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6300        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6400        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6500        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6600        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6700        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O2	Ni	Ni2	O2	
+6800        209          4	 1	 8	 1	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O4	Ni	Ni2	O2	
+6900        208          4	 1	 8	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O4	Ni	Ni2	O2	
+7000        208          4	 1	 8	 1	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+7100        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+7200        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+7300        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O2	Ni	O2	
+7400        213          3	 1	 13	 199	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O6	Ni	O2	
+7500        211          3	 1	 13	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O6	Ni	O2	
+7600        211          3	 1	 13	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O6	Ni	O2	
+7700        211          3	 1	 13	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+7800        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+7900        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O4	Ni	O2	
+8000        212          3	 1	 13	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O4	Ni	O2	
+8100        211          3	 1	 12	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O4	Ni	O2	
+8200        211          3	 1	 12	 198	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O6	Ni	O2	
+8300        210          3	 1	 12	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O8	Ni	O2	
+8400        209          3	 1	 12	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O6	Ni	O2	
+8500        210          3	 1	 12	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O6	Ni	O2	
+8600        210          3	 1	 12	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O6	Ni	O2	
+8700        210          3	 1	 12	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O8	Ni	O2	
+8800        209          3	 1	 12	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O10	Ni	O2	
+8900        208          3	 1	 12	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O8	Ni	O2	
+9000        209          3	 1	 12	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O6	Ni	O2	
+9100        207          3	 1	 9	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O8	Ni	O2	
+9200        206          3	 1	 9	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O8	Ni	O2	
+9300        206          3	 1	 9	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O8	Ni	O2	
+9400        206          3	 1	 9	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O6	Ni	O2	
+9500        207          3	 1	 9	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O6	Ni	O2	
+9600        207          3	 1	 9	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O6	Ni	O2	
+9700        207          3	 1	 9	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O10	Ni	O2	
+9800        205          3	 1	 9	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O10	Ni	O2	
+9900        205          3	 1	 9	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O8	Ni	O2	
+10000        206          3	 1	 9	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O8	Ni	O2	
+10100        204          3	 1	 7	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O10	Ni	O2	
+10200        203          3	 1	 7	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O8	Ni	O2	
+10300        204          3	 1	 7	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O10	Ni	O2	
+10400        203          3	 1	 7	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O8	Ni	O2	
+10500        204          3	 1	 7	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O10	Ni	O2	
+10600        203          3	 1	 7	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O10	Ni	O2	
+10700        203          3	 1	 7	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O8	Ni	O2	
+10800        204          3	 1	 7	 196	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O10	Ni	O2	
+10900        203          3	 1	 7	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O10	Ni	O2	
+11000        203          3	 1	 7	 195	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O12	Ni	Ni2	O2	
+11100        206          4	 1	 10	 1	 194	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O12	Ni	Ni2	O2	
+11200        206          4	 1	 10	 1	 194	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O12	Ni	Ni2	O2	
+11300        206          4	 1	 10	 1	 194	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O14	Ni	Ni2	O2	
+11400        205          4	 1	 10	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O14	Ni	Ni2	O2	
+11500        205          4	 1	 10	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O14	Ni	Ni2	O2	
+11600        205          4	 1	 10	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O16	Ni	Ni2	O2	
+11700        204          4	 1	 10	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O14	Ni	Ni2	O2	
+11800        205          4	 1	 10	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O16	Ni	Ni2	O2	
+11900        204          4	 1	 10	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O16	Ni	Ni2	O2	
+12000        204          4	 1	 10	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O6	Ni	Ni2	O2	
+12100        208          4	 1	 9	 1	 197	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O14	Ni	Ni2	O2	
+12200        204          4	 1	 9	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O14	Ni	Ni2	O2	
+12300        204          4	 1	 9	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O12	Ni	Ni2	O2	
+12400        205          4	 1	 9	 1	 194	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O14	Ni	Ni2	O2	
+12500        204          4	 1	 9	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O14	Ni	Ni2	O2	
+12600        204          4	 1	 9	 1	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O16	Ni	Ni2	O2	
+12700        203          4	 1	 9	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O16	Ni	Ni2	O2	
+12800        203          4	 1	 9	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O16	Ni	Ni2	O2	
+12900        203          4	 1	 9	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O18	Ni	Ni2	O2	
+13000        202          4	 1	 9	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+13100        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O16	Ni	Ni2	O2	
+13200        200          4	 1	 6	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+13300        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+13400        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+13500        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+13600        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O16	Ni	Ni2	O2	
+13700        200          4	 1	 6	 1	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+13800        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+13900        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O18	Ni	Ni2	O2	
+14000        199          4	 1	 6	 1	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O14	Ni	Ni2	O2	
+14100        218          4	 1	 20	 4	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O14	Ni	Ni2	O2	
+14200        218          4	 1	 20	 4	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O14	Ni	Ni2	O2	
+14300        218          4	 1	 20	 4	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O14	Ni	Ni2	O2	
+14400        218          4	 1	 20	 4	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O18	Ni	Ni2	O2	
+14500        216          4	 1	 20	 4	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O20	Ni	Ni2	O2	
+14600        215          4	 1	 20	 4	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O20	Ni	Ni2	O2	
+14700        215          4	 1	 20	 4	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O16	Ni	Ni2	O2	
+14800        217          4	 1	 20	 4	 192	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O14	Ni	Ni2	O2	
+14900        218          4	 1	 20	 4	 193	
+# Timestep     No_Moles     No_Specs     Pd745Ni179O18	Ni	Ni2	O2	
+15000        216          4	 1	 20	 4	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O18	Ni	Ni2	O2	
+15100        206          4	 1	 12	 2	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O18	Ni	Ni2	O2	
+15200        206          4	 1	 12	 2	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O18	Ni	Ni2	O2	
+15300        206          4	 1	 12	 2	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O22	Ni	Ni2	O2	
+15400        204          4	 1	 12	 2	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O22	Ni	Ni2	O2	
+15500        204          4	 1	 12	 2	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O22	Ni	Ni2	O2	
+15600        204          4	 1	 12	 2	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O20	Ni	Ni2	O2	
+15700        205          4	 1	 12	 2	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O22	Ni	Ni2	O2	
+15800        204          4	 1	 12	 2	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O24	Ni	Ni2	O2	
+15900        203          4	 1	 12	 2	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O20	Ni	Ni2	O2	
+16000        205          4	 1	 12	 2	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O20	Ni	Ni2	O2	
+16100        205          4	 1	 12	 2	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O20	Ni	Ni2	O2	
+16200        205          4	 1	 12	 2	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O20	Ni	Ni2	O2	
+16300        205          4	 1	 12	 2	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O18	Ni	Ni2	O2	
+16400        206          4	 1	 12	 2	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O20	Ni	Ni2	O2	
+16500        205          4	 1	 12	 2	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O22	Ni	Ni2	O2	
+16600        204          4	 1	 12	 2	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O24	Ni	Ni2	O2	
+16700        203          4	 1	 12	 2	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O18	Ni	Ni2	O2	
+16800        206          4	 1	 12	 2	 191	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O20	Ni	Ni2	O2	
+16900        205          4	 1	 12	 2	 190	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O22	Ni	Ni2	O2	
+17000        204          4	 1	 12	 2	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	O2	
+17100        204          3	 1	 15	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	O2	
+17200        204          3	 1	 15	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O22	Ni	O2	
+17300        205          3	 1	 15	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O22	Ni	O2	
+17400        205          3	 1	 15	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	O2	
+17500        204          3	 1	 15	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O22	Ni	O2	
+17600        205          3	 1	 15	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O22	Ni	O2	
+17700        205          3	 1	 15	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O22	Ni	O2	
+17800        205          3	 1	 15	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	O2	
+17900        204          3	 1	 15	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O30	Ni	O2	
+18000        201          3	 1	 15	 185	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	Ni2	O2	
+18100        202          4	 1	 11	 2	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O28	Ni	Ni2	O2	
+18200        200          4	 1	 11	 2	 186	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	Ni2	O2	
+18300        202          4	 1	 11	 2	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	Ni2	O2	
+18400        202          4	 1	 11	 2	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O28	Ni	Ni2	O2	
+18500        200          4	 1	 11	 2	 186	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O28	Ni	Ni2	O2	
+18600        200          4	 1	 11	 2	 186	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O28	Ni	Ni2	O2	
+18700        200          4	 1	 11	 2	 186	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O26	Ni	Ni2	O2	
+18800        201          4	 1	 11	 2	 187	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O24	Ni	Ni2	O2	
+18900        202          4	 1	 11	 2	 188	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O30	Ni	Ni2	O2	
+19000        199          4	 1	 11	 2	 185	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O28	Ni2	Ni	O2	
+19100        205          4	 1	 3	 15	 186	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O26	Ni2	Ni	O2	
+19200        206          4	 1	 3	 15	 187	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O22	Ni2	Ni	O2	
+19300        208          4	 1	 3	 15	 189	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O26	Ni2	Ni	O2	
+19400        206          4	 1	 3	 15	 187	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O26	Ni2	Ni	O2	
+19500        206          4	 1	 3	 15	 187	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O28	Ni2	Ni	O2	
+19600        205          4	 1	 3	 15	 186	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O30	Ni2	Ni	O2	
+19700        204          4	 1	 3	 15	 185	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O30	Ni2	Ni	O2	
+19800        204          4	 1	 3	 15	 185	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O32	Ni2	Ni	O2	
+19900        203          4	 1	 3	 15	 184	
+# Timestep     No_Moles     No_Specs     Pd745Ni186O32	Ni2	Ni	O2	
+20000        203          4	 1	 3	 15	 184	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O30	Ni	O2	
+20100        198          3	 1	 12	 185	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O32	Ni	O2	
+20200        197          3	 1	 12	 184	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O34	Ni	O2	
+20300        196          3	 1	 12	 183	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O32	Ni	O2	
+20400        197          3	 1	 12	 184	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O36	Ni	O2	
+20500        195          3	 1	 12	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O34	Ni	O2	
+20600        196          3	 1	 12	 183	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O32	Ni	O2	
+20700        197          3	 1	 12	 184	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O34	Ni	O2	
+20800        196          3	 1	 12	 183	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O38	Ni	O2	
+20900        194          3	 1	 12	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O36	Ni	O2	
+21000        195          3	 1	 12	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O36	Ni	O2	
+21100        194          3	 1	 11	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O34	Ni	O2	
+21200        195          3	 1	 11	 183	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O36	Ni	O2	
+21300        194          3	 1	 11	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O32	Ni	O2	
+21400        196          3	 1	 11	 184	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O38	Ni	O2	
+21500        193          3	 1	 11	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O40	Ni	O2	
+21600        192          3	 1	 11	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O40	Ni	O2	
+21700        192          3	 1	 11	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O40	Ni	O2	
+21800        192          3	 1	 11	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O36	Ni	O2	
+21900        194          3	 1	 11	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O36	Ni	O2	
+22000        194          3	 1	 11	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O32	Ni	O2	
+22100        199          3	 1	 14	 184	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O34	Ni	O2	
+22200        198          3	 1	 14	 183	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O38	Ni	O2	
+22300        196          3	 1	 14	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O36	Ni	O2	
+22400        197          3	 1	 14	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O38	Ni	O2	
+22500        196          3	 1	 14	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O38	Ni	O2	
+22600        196          3	 1	 14	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O36	Ni	O2	
+22700        197          3	 1	 14	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O36	Ni	O2	
+22800        197          3	 1	 14	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O38	Ni	O2	
+22900        196          3	 1	 14	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O36	Ni	O2	
+23000        197          3	 1	 14	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O38	Ni	O2	
+23100        198          3	 1	 16	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O40	Ni	O2	
+23200        197          3	 1	 16	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O40	Ni	O2	
+23300        197          3	 1	 16	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O40	Ni	O2	
+23400        197          3	 1	 16	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O40	Ni	O2	
+23500        197          3	 1	 16	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O40	Ni	O2	
+23600        197          3	 1	 16	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O38	Ni	O2	
+23700        198          3	 1	 16	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O40	Ni	O2	
+23800        197          3	 1	 16	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O38	Ni	O2	
+23900        198          3	 1	 16	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O38	Ni	O2	
+24000        198          3	 1	 16	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O36	Ni	Ni2	O2	
+24100        194          4	 1	 10	 1	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O42	Ni	Ni2	O2	
+24200        191          4	 1	 10	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O40	Ni	Ni2	O2	
+24300        192          4	 1	 10	 1	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O40	Ni	Ni2	O2	
+24400        192          4	 1	 10	 1	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O38	Ni	Ni2	O2	
+24500        193          4	 1	 10	 1	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O36	Ni	Ni2	O2	
+24600        194          4	 1	 10	 1	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O38	Ni	Ni2	O2	
+24700        193          4	 1	 10	 1	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O38	Ni	Ni2	O2	
+24800        193          4	 1	 10	 1	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O36	Ni	Ni2	O2	
+24900        194          4	 1	 10	 1	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O38	Ni	Ni2	O2	
+25000        193          4	 1	 10	 1	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O40	Ni	Ni2	O2	
+25100        193          4	 1	 10	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O44	Ni	Ni2	O2	
+25200        191          4	 1	 10	 2	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O44	Ni	Ni2	O2	
+25300        191          4	 1	 10	 2	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O42	Ni	Ni2	O2	
+25400        192          4	 1	 10	 2	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O40	Ni	Ni2	O2	
+25500        193          4	 1	 10	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O40	Ni	Ni2	O2	
+25600        193          4	 1	 10	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O40	Ni	Ni2	O2	
+25700        193          4	 1	 10	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O40	Ni	Ni2	O2	
+25800        193          4	 1	 10	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O40	Ni	Ni2	O2	
+25900        193          4	 1	 10	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O42	Ni	Ni2	O2	
+26000        192          4	 1	 10	 2	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O42	Ni	Ni2	O2	
+26100        189          4	 1	 7	 2	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O42	Ni	Ni2	O2	
+26200        189          4	 1	 7	 2	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O44	Ni	Ni2	O2	
+26300        188          4	 1	 7	 2	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O46	Ni	Ni2	O2	
+26400        187          4	 1	 7	 2	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O42	Ni	Ni2	O2	
+26500        189          4	 1	 7	 2	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O36	Ni	Ni2	O2	
+26600        192          4	 1	 7	 2	 182	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O38	Ni	Ni2	O2	
+26700        191          4	 1	 7	 2	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O38	Ni	Ni2	O2	
+26800        191          4	 1	 7	 2	 181	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O40	Ni	Ni2	O2	
+26900        190          4	 1	 7	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O40	Ni	Ni2	O2	
+27000        190          4	 1	 7	 2	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O42	Ni	Ni2	O2	
+27100        191          4	 1	 10	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O42	Ni	Ni2	O2	
+27200        191          4	 1	 10	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O42	Ni	Ni2	O2	
+27300        191          4	 1	 10	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O40	Ni	Ni2	O2	
+27400        192          4	 1	 10	 1	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O46	Ni	Ni2	O2	
+27500        189          4	 1	 10	 1	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O44	Ni	Ni2	O2	
+27600        190          4	 1	 10	 1	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O42	Ni	Ni2	O2	
+27700        191          4	 1	 10	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O44	Ni	Ni2	O2	
+27800        190          4	 1	 10	 1	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O40	Ni	Ni2	O2	
+27900        192          4	 1	 10	 1	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O40	Ni	Ni2	O2	
+28000        192          4	 1	 10	 1	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O40	Ni	Ni2	O2	
+28100        193          4	 1	 11	 1	 180	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O44	Ni	Ni2	O2	
+28200        191          4	 1	 11	 1	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O46	Ni	Ni2	O2	
+28300        190          4	 1	 11	 1	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O44	Ni	Ni2	O2	
+28400        191          4	 1	 11	 1	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O44	Ni	Ni2	O2	
+28500        191          4	 1	 11	 1	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O42	Ni	Ni2	O2	
+28600        192          4	 1	 11	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O42	Ni	Ni2	O2	
+28700        192          4	 1	 11	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O44	Ni	Ni2	O2	
+28800        191          4	 1	 11	 1	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O46	Ni	Ni2	O2	
+28900        190          4	 1	 11	 1	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O44	Ni	Ni2	O2	
+29000        191          4	 1	 11	 1	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O46	Ni	Ni2	O2	
+29100        192          4	 1	 11	 3	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O44	Ni	Ni2	O2	
+29200        193          4	 1	 11	 3	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O48	Ni	Ni2	O2	
+29300        191          4	 1	 11	 3	 176	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O46	Ni	Ni2	O2	
+29400        192          4	 1	 11	 3	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O46	Ni	Ni2	O2	
+29500        192          4	 1	 11	 3	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O44	Ni	Ni2	O2	
+29600        193          4	 1	 11	 3	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O44	Ni	Ni2	O2	
+29700        193          4	 1	 11	 3	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O46	Ni	Ni2	O2	
+29800        192          4	 1	 11	 3	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O48	Ni	Ni2	O2	
+29900        191          4	 1	 11	 3	 176	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O50	Ni	Ni2	O2	
+30000        190          4	 1	 11	 3	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O50	Ni	O2	
+30100        194          3	 1	 18	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O46	Ni	O2	
+30200        196          3	 1	 18	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O48	Ni	O2	
+30300        195          3	 1	 18	 176	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O50	Ni	O2	
+30400        194          3	 1	 18	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O50	Ni	O2	
+30500        194          3	 1	 18	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O50	Ni	O2	
+30600        194          3	 1	 18	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O50	Ni	O2	
+30700        194          3	 1	 18	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O52	Ni	O2	
+30800        193          3	 1	 18	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O50	Ni	O2	
+30900        194          3	 1	 18	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni189O44	Ni	O2	
+31000        197          3	 1	 18	 178	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O46	Ni	Ni2	O2	
+31100        194          4	 1	 15	 1	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O42	Ni	Ni2	O2	
+31200        196          4	 1	 15	 1	 179	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O46	Ni	Ni2	O2	
+31300        194          4	 1	 15	 1	 177	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O48	Ni	Ni2	O2	
+31400        193          4	 1	 15	 1	 176	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O52	Ni	Ni2	O2	
+31500        191          4	 1	 15	 1	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O50	Ni	Ni2	O2	
+31600        192          4	 1	 15	 1	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O50	Ni	Ni2	O2	
+31700        192          4	 1	 15	 1	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O52	Ni	Ni2	O2	
+31800        191          4	 1	 15	 1	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O52	Ni	Ni2	O2	
+31900        191          4	 1	 15	 1	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O52	Ni	Ni2	O2	
+32000        191          4	 1	 15	 1	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O50	Ni	Ni2	O2	
+32100        188          4	 1	 10	 2	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O52	Ni	Ni2	O2	
+32200        187          4	 1	 10	 2	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O50	Ni	Ni2	O2	
+32300        188          4	 1	 10	 2	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O50	Ni	Ni2	O2	
+32400        188          4	 1	 10	 2	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O52	Ni	Ni2	O2	
+32500        187          4	 1	 10	 2	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O48	Ni	Ni2	O2	
+32600        189          4	 1	 10	 2	 176	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O52	Ni	Ni2	O2	
+32700        187          4	 1	 10	 2	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O54	Ni	Ni2	O2	
+32800        186          4	 1	 10	 2	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O58	Ni	Ni2	O2	
+32900        184          4	 1	 10	 2	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O56	Ni	Ni2	O2	
+33000        185          4	 1	 10	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O52	Ni	O2	
+33100        184          3	 1	 9	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O50	Ni	O2	
+33200        185          3	 1	 9	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O56	Ni	O2	
+33300        182          3	 1	 9	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O50	Ni	O2	
+33400        185          3	 1	 9	 175	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O56	Ni	O2	
+33500        182          3	 1	 9	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O58	Ni	O2	
+33600        181          3	 1	 9	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O58	Ni	O2	
+33700        181          3	 1	 9	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O58	Ni	O2	
+33800        181          3	 1	 9	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O56	Ni	O2	
+33900        182          3	 1	 9	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O52	Ni	O2	
+34000        184          3	 1	 9	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O56	Ni	Ni2	O2	
+34100        186          4	 1	 11	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O56	Ni	Ni2	O2	
+34200        186          4	 1	 11	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O56	Ni	Ni2	O2	
+34300        186          4	 1	 11	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O54	Ni	Ni2	O2	
+34400        187          4	 1	 11	 2	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O56	Ni	Ni2	O2	
+34500        186          4	 1	 11	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O56	Ni	Ni2	O2	
+34600        186          4	 1	 11	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O56	Ni	Ni2	O2	
+34700        186          4	 1	 11	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O56	Ni	Ni2	O2	
+34800        186          4	 1	 11	 2	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O54	Ni	Ni2	O2	
+34900        187          4	 1	 11	 2	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O58	Ni	Ni2	O2	
+35000        185          4	 1	 11	 2	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O58	Ni	Ni2	O2	
+35100        188          4	 1	 15	 1	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O58	Ni	Ni2	O2	
+35200        188          4	 1	 15	 1	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O58	Ni	Ni2	O2	
+35300        188          4	 1	 15	 1	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O60	Ni	Ni2	O2	
+35400        187          4	 1	 15	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O56	Ni	Ni2	O2	
+35500        189          4	 1	 15	 1	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O56	Ni	Ni2	O2	
+35600        189          4	 1	 15	 1	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O56	Ni	Ni2	O2	
+35700        189          4	 1	 15	 1	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O54	Ni	Ni2	O2	
+35800        190          4	 1	 15	 1	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O52	Ni	Ni2	O2	
+35900        191          4	 1	 15	 1	 174	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O58	Ni	Ni2	O2	
+36000        188          4	 1	 15	 1	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O60	Ni	O2	
+36100        178          3	 1	 7	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+36200        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O60	Ni	O2	
+36300        178          3	 1	 7	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O56	Ni	O2	
+36400        180          3	 1	 7	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+36500        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O60	Ni	O2	
+36600        178          3	 1	 7	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O60	Ni	O2	
+36700        178          3	 1	 7	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+36800        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O54	Ni	O2	
+36900        181          3	 1	 7	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O54	Ni	O2	
+37000        181          3	 1	 7	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O64	Ni	O2	
+37100        178          3	 1	 9	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O62	Ni	O2	
+37200        179          3	 1	 9	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O62	Ni	O2	
+37300        179          3	 1	 9	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O64	Ni	O2	
+37400        178          3	 1	 9	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O62	Ni	O2	
+37500        179          3	 1	 9	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O60	Ni	O2	
+37600        180          3	 1	 9	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O60	Ni	O2	
+37700        180          3	 1	 9	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O62	Ni	O2	
+37800        179          3	 1	 9	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O60	Ni	O2	
+37900        180          3	 1	 9	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O64	Ni	O2	
+38000        178          3	 1	 9	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O64	Ni	O2	
+38100        176          3	 1	 7	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O60	Ni	O2	
+38200        178          3	 1	 7	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+38300        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O54	Ni	O2	
+38400        181          3	 1	 7	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O56	Ni	O2	
+38500        180          3	 1	 7	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+38600        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+38700        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O60	Ni	O2	
+38800        178          3	 1	 7	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+38900        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O58	Ni	O2	
+39000        179          3	 1	 7	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O62	Ni	Ni2	O2	
+39100        180          4	 1	 9	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+39200        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+39300        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+39400        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O60	Ni	Ni2	O2	
+39500        181          4	 1	 9	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O62	Ni	Ni2	O2	
+39600        180          4	 1	 9	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O62	Ni	Ni2	O2	
+39700        180          4	 1	 9	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O60	Ni	Ni2	O2	
+39800        181          4	 1	 9	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O58	Ni	Ni2	O2	
+39900        182          4	 1	 9	 1	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+40000        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	O2	
+40100        180          3	 1	 11	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O58	Ni	O2	
+40200        183          3	 1	 11	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O54	Ni	O2	
+40300        185          3	 1	 11	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O58	Ni	O2	
+40400        183          3	 1	 11	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O58	Ni	O2	
+40500        183          3	 1	 11	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O56	Ni	O2	
+40600        184          3	 1	 11	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O58	Ni	O2	
+40700        183          3	 1	 11	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O58	Ni	O2	
+40800        183          3	 1	 11	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O62	Ni	O2	
+40900        181          3	 1	 11	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O58	Ni	O2	
+41000        183          3	 1	 11	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O60	Ni	O2	
+41100        179          3	 1	 8	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O62	Ni	O2	
+41200        178          3	 1	 8	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O58	Ni	O2	
+41300        180          3	 1	 8	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O62	Ni	O2	
+41400        178          3	 1	 8	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O60	Ni	O2	
+41500        179          3	 1	 8	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O58	Ni	O2	
+41600        180          3	 1	 8	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O58	Ni	O2	
+41700        180          3	 1	 8	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O56	Ni	O2	
+41800        181          3	 1	 8	 172	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O62	Ni	O2	
+41900        178          3	 1	 8	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O64	Ni	O2	
+42000        177          3	 1	 8	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O64	Ni	Ni2	O2	
+42100        182          4	 1	 12	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O58	Ni	Ni2	O2	
+42200        185          4	 1	 12	 1	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O60	Ni	Ni2	O2	
+42300        184          4	 1	 12	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O62	Ni	Ni2	O2	
+42400        183          4	 1	 12	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O60	Ni	Ni2	O2	
+42500        184          4	 1	 12	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O62	Ni	Ni2	O2	
+42600        183          4	 1	 12	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O54	Ni	Ni2	O2	
+42700        187          4	 1	 12	 1	 173	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O64	Ni	Ni2	O2	
+42800        182          4	 1	 12	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O60	Ni	Ni2	O2	
+42900        184          4	 1	 12	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O66	Ni	Ni2	O2	
+43000        181          4	 1	 12	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O66	Ni	Ni2	O2	
+43100        177          4	 1	 8	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O60	Ni	Ni2	O2	
+43200        180          4	 1	 8	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O66	Ni	Ni2	O2	
+43300        177          4	 1	 8	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O62	Ni	Ni2	O2	
+43400        179          4	 1	 8	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O60	Ni	Ni2	O2	
+43500        180          4	 1	 8	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O62	Ni	Ni2	O2	
+43600        179          4	 1	 8	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O58	Ni	Ni2	O2	
+43700        181          4	 1	 8	 1	 171	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O64	Ni	Ni2	O2	
+43800        178          4	 1	 8	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O66	Ni	Ni2	O2	
+43900        177          4	 1	 8	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O66	Ni	Ni2	O2	
+44000        177          4	 1	 8	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O64	Ni	Ni2	O2	
+44100        177          4	 1	 7	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O62	Ni	Ni2	O2	
+44200        178          4	 1	 7	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O60	Ni	Ni2	O2	
+44300        179          4	 1	 7	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O60	Ni	Ni2	O2	
+44400        179          4	 1	 7	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O60	Ni	Ni2	O2	
+44500        179          4	 1	 7	 1	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O62	Ni	Ni2	O2	
+44600        178          4	 1	 7	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O64	Ni	Ni2	O2	
+44700        177          4	 1	 7	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O66	Ni	Ni2	O2	
+44800        176          4	 1	 7	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O66	Ni	Ni2	O2	
+44900        176          4	 1	 7	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O64	Ni	Ni2	O2	
+45000        177          4	 1	 7	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O66	Ni	Ni2	O2	
+45100        179          4	 1	 9	 2	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O62	Ni	Ni2	O2	
+45200        181          4	 1	 9	 2	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O62	Ni	Ni2	O2	
+45300        181          4	 1	 9	 2	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O60	Ni	Ni2	O2	
+45400        182          4	 1	 9	 2	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O60	Ni	Ni2	O2	
+45500        182          4	 1	 9	 2	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O60	Ni	Ni2	O2	
+45600        182          4	 1	 9	 2	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O64	Ni	Ni2	O2	
+45700        180          4	 1	 9	 2	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O60	Ni	Ni2	O2	
+45800        182          4	 1	 9	 2	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O64	Ni	Ni2	O2	
+45900        180          4	 1	 9	 2	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O60	Ni	Ni2	O2	
+46000        182          4	 1	 9	 2	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O60	Ni	Ni2	O2	
+46100        182          4	 1	 9	 2	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O62	Ni	Ni2	O2	
+46200        181          4	 1	 9	 2	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O60	Ni	Ni2	O2	
+46300        182          4	 1	 9	 2	 170	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O64	Ni	Ni2	O2	
+46400        180          4	 1	 9	 2	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O64	Ni	Ni2	O2	
+46500        180          4	 1	 9	 2	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O64	Ni	Ni2	O2	
+46600        180          4	 1	 9	 2	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O62	Ni	Ni2	O2	
+46700        181          4	 1	 9	 2	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O66	Ni	Ni2	O2	
+46800        179          4	 1	 9	 2	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O66	Ni	Ni2	O2	
+46900        179          4	 1	 9	 2	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O64	Ni	Ni2	O2	
+47000        180          4	 1	 9	 2	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+47100        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+47200        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O68	Ni	Ni2	O2	
+47300        177          4	 1	 9	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O66	Ni	Ni2	O2	
+47400        178          4	 1	 9	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O62	Ni	Ni2	O2	
+47500        180          4	 1	 9	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+47600        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O68	Ni	Ni2	O2	
+47700        177          4	 1	 9	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O66	Ni	Ni2	O2	
+47800        178          4	 1	 9	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O62	Ni	Ni2	O2	
+47900        180          4	 1	 9	 1	 169	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O64	Ni	Ni2	O2	
+48000        179          4	 1	 9	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O68	Ni	Ni2	O2	
+48100        175          4	 1	 7	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O70	Ni	Ni2	O2	
+48200        174          4	 1	 7	 1	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O68	Ni	Ni2	O2	
+48300        175          4	 1	 7	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O68	Ni	Ni2	O2	
+48400        175          4	 1	 7	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O68	Ni	Ni2	O2	
+48500        175          4	 1	 7	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O70	Ni	Ni2	O2	
+48600        174          4	 1	 7	 1	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O72	Ni	Ni2	O2	
+48700        173          4	 1	 7	 1	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O70	Ni	Ni2	O2	
+48800        174          4	 1	 7	 1	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O70	Ni	Ni2	O2	
+48900        174          4	 1	 7	 1	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O72	Ni	Ni2	O2	
+49000        173          4	 1	 7	 1	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O72	Ni	Ni2	O2	
+49100        177          4	 1	 11	 1	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O64	Ni	Ni2	O2	
+49200        181          4	 1	 11	 1	 168	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O66	Ni	Ni2	O2	
+49300        180          4	 1	 11	 1	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O68	Ni	Ni2	O2	
+49400        179          4	 1	 11	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O68	Ni	Ni2	O2	
+49500        179          4	 1	 11	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O70	Ni	Ni2	O2	
+49600        178          4	 1	 11	 1	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O72	Ni	Ni2	O2	
+49700        177          4	 1	 11	 1	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O70	Ni	Ni2	O2	
+49800        178          4	 1	 11	 1	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O68	Ni	Ni2	O2	
+49900        179          4	 1	 11	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O68	Ni	Ni2	O2	
+50000        179          4	 1	 11	 1	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O72	Ni	O2	
+50100        175          3	 1	 10	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O74	Ni	O2	
+50200        174          3	 1	 10	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O74	Ni	O2	
+50300        174          3	 1	 10	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O72	Ni	O2	
+50400        175          3	 1	 10	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O70	Ni	O2	
+50500        176          3	 1	 10	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O70	Ni	O2	
+50600        176          3	 1	 10	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O68	Ni	O2	
+50700        177          3	 1	 10	 166	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O70	Ni	O2	
+50800        176          3	 1	 10	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O70	Ni	O2	
+50900        176          3	 1	 10	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O72	Ni	O2	
+51000        175          3	 1	 10	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O74	Ni	O2	
+51100        170          3	 1	 6	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O74	Ni	O2	
+51200        170          3	 1	 6	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O74	Ni	O2	
+51300        170          3	 1	 6	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O74	Ni	O2	
+51400        170          3	 1	 6	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O70	Ni	O2	
+51500        172          3	 1	 6	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O70	Ni	O2	
+51600        172          3	 1	 6	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O70	Ni	O2	
+51700        172          3	 1	 6	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O70	Ni	O2	
+51800        172          3	 1	 6	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O74	Ni	O2	
+51900        170          3	 1	 6	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O74	Ni	O2	
+52000        170          3	 1	 6	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O76	Ni	Ni2	O2	
+52100        174          4	 1	 8	 3	 162	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O72	Ni	Ni2	O2	
+52200        176          4	 1	 8	 3	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O70	Ni	Ni2	O2	
+52300        177          4	 1	 8	 3	 165	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O66	Ni	Ni2	O2	
+52400        179          4	 1	 8	 3	 167	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O74	Ni	Ni2	O2	
+52500        175          4	 1	 8	 3	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O72	Ni	Ni2	O2	
+52600        176          4	 1	 8	 3	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O74	Ni	Ni2	O2	
+52700        175          4	 1	 8	 3	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O74	Ni	Ni2	O2	
+52800        175          4	 1	 8	 3	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O78	Ni	Ni2	O2	
+52900        173          4	 1	 8	 3	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O74	Ni	Ni2	O2	
+53000        175          4	 1	 8	 3	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O74	Ni	Ni2	O2	
+53100        177          4	 1	 12	 1	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O80	Ni	Ni2	O2	
+53200        174          4	 1	 12	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O80	Ni	Ni2	O2	
+53300        174          4	 1	 12	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O74	Ni	Ni2	O2	
+53400        177          4	 1	 12	 1	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O78	Ni	Ni2	O2	
+53500        175          4	 1	 12	 1	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O76	Ni	Ni2	O2	
+53600        176          4	 1	 12	 1	 162	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O76	Ni	Ni2	O2	
+53700        176          4	 1	 12	 1	 162	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O78	Ni	Ni2	O2	
+53800        175          4	 1	 12	 1	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O80	Ni	Ni2	O2	
+53900        174          4	 1	 12	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O78	Ni	Ni2	O2	
+54000        175          4	 1	 12	 1	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O80	Ni	Ni2	O2	
+54100        171          4	 1	 9	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O74	Ni	Ni2	O2	
+54200        174          4	 1	 9	 1	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O72	Ni	Ni2	O2	
+54300        175          4	 1	 9	 1	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O80	Ni	Ni2	O2	
+54400        171          4	 1	 9	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O76	Ni	Ni2	O2	
+54500        173          4	 1	 9	 1	 162	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O80	Ni	Ni2	O2	
+54600        171          4	 1	 9	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O78	Ni	Ni2	O2	
+54700        172          4	 1	 9	 1	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O78	Ni	Ni2	O2	
+54800        172          4	 1	 9	 1	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O82	Ni	Ni2	O2	
+54900        170          4	 1	 9	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O82	Ni	Ni2	O2	
+55000        170          4	 1	 9	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+55100        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O82	Ni	O2	
+55200        167          3	 1	 7	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O72	Ni	O2	
+55300        172          3	 1	 7	 164	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O78	Ni	O2	
+55400        169          3	 1	 7	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+55500        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+55600        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+55700        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O78	Ni	O2	
+55800        169          3	 1	 7	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+55900        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+56000        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	O2	
+56100        169          3	 1	 9	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O88	Ni	O2	
+56200        166          3	 1	 9	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	O2	
+56300        169          3	 1	 9	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O76	Ni	O2	
+56400        172          3	 1	 9	 162	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O86	Ni	O2	
+56500        167          3	 1	 9	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O80	Ni	O2	
+56600        170          3	 1	 9	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	O2	
+56700        169          3	 1	 9	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O78	Ni	O2	
+56800        171          3	 1	 9	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	O2	
+56900        169          3	 1	 9	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	O2	
+57000        169          3	 1	 9	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O84	Ni	Ni2	O2	
+57100        169          4	 1	 9	 1	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O80	Ni	Ni2	O2	
+57200        171          4	 1	 9	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O80	Ni	Ni2	O2	
+57300        171          4	 1	 9	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O82	Ni	Ni2	O2	
+57400        170          4	 1	 9	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O82	Ni	Ni2	O2	
+57500        170          4	 1	 9	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O80	Ni	Ni2	O2	
+57600        171          4	 1	 9	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O78	Ni	Ni2	O2	
+57700        172          4	 1	 9	 1	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O84	Ni	Ni2	O2	
+57800        169          4	 1	 9	 1	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O82	Ni	Ni2	O2	
+57900        170          4	 1	 9	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O82	Ni	Ni2	O2	
+58000        170          4	 1	 9	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O84	Ni	Ni2	O2	
+58100        167          4	 1	 7	 1	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	Ni2	O2	
+58200        168          4	 1	 7	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O78	Ni	Ni2	O2	
+58300        170          4	 1	 7	 1	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O80	Ni	Ni2	O2	
+58400        169          4	 1	 7	 1	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	Ni2	O2	
+58500        168          4	 1	 7	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O84	Ni	Ni2	O2	
+58600        167          4	 1	 7	 1	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O84	Ni	Ni2	O2	
+58700        167          4	 1	 7	 1	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O86	Ni	Ni2	O2	
+58800        166          4	 1	 7	 1	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	Ni2	O2	
+58900        168          4	 1	 7	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O86	Ni	Ni2	O2	
+59000        166          4	 1	 7	 1	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O86	Ni	O2	
+59100        166          3	 1	 8	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O82	Ni	O2	
+59200        168          3	 1	 8	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O86	Ni	O2	
+59300        166          3	 1	 8	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O82	Ni	O2	
+59400        168          3	 1	 8	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O86	Ni	O2	
+59500        166          3	 1	 8	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O86	Ni	O2	
+59600        166          3	 1	 8	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O88	Ni	O2	
+59700        165          3	 1	 8	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O80	Ni	O2	
+59800        169          3	 1	 8	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O80	Ni	O2	
+59900        169          3	 1	 8	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O88	Ni	O2	
+60000        165          3	 1	 8	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O90	Ni	O2	
+60100        163          3	 1	 7	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O88	Ni	O2	
+60200        164          3	 1	 7	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O92	Ni	O2	
+60300        162          3	 1	 7	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O82	Ni	O2	
+60400        167          3	 1	 7	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O78	Ni	O2	
+60500        169          3	 1	 7	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O82	Ni	O2	
+60600        167          3	 1	 7	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O86	Ni	O2	
+60700        165          3	 1	 7	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+60800        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O86	Ni	O2	
+60900        165          3	 1	 7	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O86	Ni	O2	
+61000        165          3	 1	 7	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O84	Ni	O2	
+61100        166          3	 1	 7	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O86	Ni	O2	
+61200        165          3	 1	 7	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O90	Ni	O2	
+61300        163          3	 1	 7	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O88	Ni	O2	
+61400        164          3	 1	 7	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O82	Ni	O2	
+61500        167          3	 1	 7	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O84	Ni	O2	
+61600        166          3	 1	 7	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O84	Ni	O2	
+61700        166          3	 1	 7	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O86	Ni	O2	
+61800        165          3	 1	 7	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O80	Ni	O2	
+61900        168          3	 1	 7	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O82	Ni	O2	
+62000        167          3	 1	 7	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O80	Ni	O2	
+62100        167          3	 1	 6	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O80	Ni	O2	
+62200        167          3	 1	 6	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O80	Ni	O2	
+62300        167          3	 1	 6	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O86	Ni	O2	
+62400        164          3	 1	 6	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O82	Ni	O2	
+62500        166          3	 1	 6	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O78	Ni	O2	
+62600        168          3	 1	 6	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O80	Ni	O2	
+62700        167          3	 1	 6	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O80	Ni	O2	
+62800        167          3	 1	 6	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O80	Ni	O2	
+62900        167          3	 1	 6	 160	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O78	Ni	O2	
+63000        168          3	 1	 6	 161	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O74	Ni	O2	
+63100        173          3	 1	 9	 163	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O76	Ni	O2	
+63200        172          3	 1	 9	 162	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O82	Ni	O2	
+63300        169          3	 1	 9	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O88	Ni	O2	
+63400        166          3	 1	 9	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O86	Ni	O2	
+63500        167          3	 1	 9	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O88	Ni	O2	
+63600        166          3	 1	 9	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O86	Ni	O2	
+63700        167          3	 1	 9	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O90	Ni	O2	
+63800        165          3	 1	 9	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O90	Ni	O2	
+63900        165          3	 1	 9	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O84	Ni	O2	
+64000        168          3	 1	 9	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O86	Ni	Ni2	O2	
+64100        171          4	 1	 12	 1	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O82	Ni	Ni2	O2	
+64200        173          4	 1	 12	 1	 159	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O86	Ni	Ni2	O2	
+64300        171          4	 1	 12	 1	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O92	Ni	Ni2	O2	
+64400        168          4	 1	 12	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O88	Ni	Ni2	O2	
+64500        170          4	 1	 12	 1	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O90	Ni	Ni2	O2	
+64600        169          4	 1	 12	 1	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O92	Ni	Ni2	O2	
+64700        168          4	 1	 12	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O94	Ni	Ni2	O2	
+64800        167          4	 1	 12	 1	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O92	Ni	Ni2	O2	
+64900        168          4	 1	 12	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O92	Ni	Ni2	O2	
+65000        168          4	 1	 12	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O88	Ni	O2	
+65100        168          3	 1	 11	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O88	Ni	O2	
+65200        168          3	 1	 11	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O86	Ni	O2	
+65300        169          3	 1	 11	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O88	Ni	O2	
+65400        168          3	 1	 11	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O86	Ni	O2	
+65500        169          3	 1	 11	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O88	Ni	O2	
+65600        168          3	 1	 11	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O88	Ni	O2	
+65700        168          3	 1	 11	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O86	Ni	O2	
+65800        169          3	 1	 11	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O84	Ni	O2	
+65900        170          3	 1	 11	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O94	Ni	O2	
+66000        165          3	 1	 11	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O92	Ni	Ni2	O2	
+66100        165          4	 1	 9	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O90	Ni	Ni2	O2	
+66200        166          4	 1	 9	 1	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O88	Ni	Ni2	O2	
+66300        167          4	 1	 9	 1	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O90	Ni	Ni2	O2	
+66400        166          4	 1	 9	 1	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O92	Ni	Ni2	O2	
+66500        165          4	 1	 9	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O92	Ni	Ni2	O2	
+66600        165          4	 1	 9	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O94	Ni	Ni2	O2	
+66700        164          4	 1	 9	 1	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O92	Ni	Ni2	O2	
+66800        165          4	 1	 9	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O90	Ni	Ni2	O2	
+66900        166          4	 1	 9	 1	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O88	Ni	Ni2	O2	
+67000        167          4	 1	 9	 1	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O84	Ni	O2	
+67100        176          3	 1	 17	 158	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O88	Ni	O2	
+67200        174          3	 1	 17	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O90	Ni	O2	
+67300        173          3	 1	 17	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O90	Ni	O2	
+67400        173          3	 1	 17	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O90	Ni	O2	
+67500        173          3	 1	 17	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O94	Ni	O2	
+67600        171          3	 1	 17	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O96	Ni	O2	
+67700        170          3	 1	 17	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O92	Ni	O2	
+67800        172          3	 1	 17	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O92	Ni	O2	
+67900        172          3	 1	 17	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni190O94	Ni	O2	
+68000        171          3	 1	 17	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O96	Ni	O2	
+68100        159          3	 1	 6	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O93	Ni	O2	O	
+68200        161          4	 1	 6	 153	 1	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O94	Ni	O2	
+68300        160          3	 1	 6	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O94	Ni	O2	
+68400        160          3	 1	 6	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O88	Ni	O2	
+68500        163          3	 1	 6	 156	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O96	Ni	O2	
+68600        159          3	 1	 6	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O94	Ni	O2	
+68700        160          3	 1	 6	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O96	Ni	O2	
+68800        159          3	 1	 6	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O90	Ni	O2	
+68900        162          3	 1	 6	 155	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O92	Ni	O2	
+69000        161          3	 1	 6	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O98	Ni	O2	
+69100        164          3	 1	 12	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O98	Ni	O2	
+69200        164          3	 1	 12	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O98	Ni	O2	
+69300        164          3	 1	 12	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O96	Ni	O2	
+69400        165          3	 1	 12	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O94	Ni	O2	
+69500        166          3	 1	 12	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O94	Ni	O2	
+69600        166          3	 1	 12	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O100	Ni	O2	
+69700        163          3	 1	 12	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O98	Ni	O2	
+69800        164          3	 1	 12	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O98	Ni	O2	
+69900        164          3	 1	 12	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O100	Ni	O2	
+70000        163          3	 1	 12	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O98	Ni	O2	
+70100        162          3	 1	 10	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	O2	
+70200        161          3	 1	 10	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O96	Ni	O2	
+70300        163          3	 1	 10	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O98	Ni	O2	
+70400        162          3	 1	 10	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	O2	
+70500        161          3	 1	 10	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O96	Ni	O2	
+70600        163          3	 1	 10	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O102	Ni	O2	
+70700        160          3	 1	 10	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O94	Ni	O2	
+70800        164          3	 1	 10	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O98	Ni	O2	
+70900        162          3	 1	 10	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O102	Ni	O2	
+71000        160          3	 1	 10	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O100	Ni	Ni2	O2	
+71100        160          4	 1	 7	 2	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O96	Ni	Ni2	O2	
+71200        162          4	 1	 7	 2	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O98	Ni	Ni2	O2	
+71300        161          4	 1	 7	 2	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O99	Ni	Ni2	O2	O	
+71400        161          5	 1	 7	 2	 150	 1	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O100	Ni	Ni2	O2	O	
+71500        161          5	 1	 7	 2	 149	 2	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O99	Ni	Ni2	O2	O	
+71600        161          5	 1	 7	 2	 150	 1	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O94	Ni	Ni2	O2	
+71700        163          4	 1	 7	 2	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O104	Ni	Ni2	O2	
+71800        158          4	 1	 7	 2	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O102	Ni	Ni2	O2	
+71900        159          4	 1	 7	 2	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O100	Ni	Ni2	O2	
+72000        160          4	 1	 7	 2	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O100	Ni2	Ni	O2	
+72100        165          4	 1	 1	 13	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O100	Ni2	Ni	O2	
+72200        165          4	 1	 1	 13	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O98	Ni2	Ni	O2	
+72300        166          4	 1	 1	 13	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O100	Ni2	Ni	O2	
+72400        165          4	 1	 1	 13	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O102	Ni2	Ni	O2	
+72500        164          4	 1	 1	 13	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O102	Ni2	Ni	O2	
+72600        164          4	 1	 1	 13	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O100	Ni2	Ni	O2	
+72700        165          4	 1	 1	 13	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O104	Ni2	Ni	O2	
+72800        163          4	 1	 1	 13	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O94	Ni2	Ni	O2	
+72900        168          4	 1	 1	 13	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O104	Ni2	Ni	O2	
+73000        163          4	 1	 1	 13	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O102	Ni	Ni2	O2	
+73100        159          4	 1	 8	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O102	Ni	Ni2	O2	
+73200        159          4	 1	 8	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O102	Ni	Ni2	O2	
+73300        159          4	 1	 8	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	Ni2	O2	
+73400        160          4	 1	 8	 1	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O104	Ni	Ni2	O2	
+73500        158          4	 1	 8	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O104	Ni	Ni2	O2	
+73600        158          4	 1	 8	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O102	Ni	Ni2	O2	
+73700        159          4	 1	 8	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O96	Ni	Ni2	O2	
+73800        162          4	 1	 8	 1	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O92	Ni	Ni2	O2	
+73900        164          4	 1	 8	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O92	Ni	Ni2	O2	
+74000        164          4	 1	 8	 1	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	O2	
+74100        161          3	 1	 10	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O98	Ni	O2	
+74200        162          3	 1	 10	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O96	Ni	O2	
+74300        163          3	 1	 10	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O102	Ni	O2	
+74400        160          3	 1	 10	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O94	Ni	O2	
+74500        164          3	 1	 10	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	O2	
+74600        161          3	 1	 10	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	O2	
+74700        161          3	 1	 10	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	O2	
+74800        161          3	 1	 10	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O98	Ni	O2	
+74900        162          3	 1	 10	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O94	Ni	O2	
+75000        164          3	 1	 10	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O100	Ni	O2	
+75100        164          3	 1	 13	 150	
+# Timestep     No_Moles     No_Specs     Pd744Ni194O102	Ni	PdO2	O2	
+75200        163          4	 1	 13	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O102	Ni	O2	
+75300        163          3	 1	 13	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O96	Ni	O2	
+75400        166          3	 1	 13	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O96	Ni	O2	
+75500        166          3	 1	 13	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O100	Ni	O2	
+75600        164          3	 1	 13	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O94	Ni	O2	
+75700        167          3	 1	 13	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O92	Ni	O2	
+75800        168          3	 1	 13	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O98	Ni	O2	
+75900        165          3	 1	 13	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O102	Ni	O2	
+76000        163          3	 1	 13	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O102	Ni	O2	
+76100        159          3	 1	 9	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O98	Ni	O2	
+76200        161          3	 1	 9	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O104	Ni	O2	
+76300        158          3	 1	 9	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O100	Ni	O2	
+76400        160          3	 1	 9	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O100	Ni	O2	
+76500        160          3	 1	 9	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O98	Ni	O2	
+76600        161          3	 1	 9	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O102	Ni	O2	
+76700        159          3	 1	 9	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O98	Ni	O2	
+76800        161          3	 1	 9	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O92	Ni	O2	
+76900        164          3	 1	 9	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O86	Ni	O2	
+77000        167          3	 1	 9	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O86	Ni2	Ni	O2	
+77100        168          4	 1	 1	 9	 157	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O100	Ni2	Ni	O2	
+77200        161          4	 1	 1	 9	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O96	Ni2	Ni	O2	
+77300        163          4	 1	 1	 9	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O102	Ni2	Ni	O2	
+77400        160          4	 1	 1	 9	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O98	Ni2	Ni	O2	
+77500        162          4	 1	 1	 9	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O98	Ni2	Ni	O2	
+77600        162          4	 1	 1	 9	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O96	Ni2	Ni	O2	
+77700        163          4	 1	 1	 9	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O94	Ni2	Ni	O2	
+77800        164          4	 1	 1	 9	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O98	Ni2	Ni	O2	
+77900        162          4	 1	 1	 9	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O100	Ni2	Ni	O2	
+78000        161          4	 1	 1	 9	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O96	Ni	Ni2	O2	
+78100        164          4	 1	 10	 1	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O94	Ni	Ni2	O2	
+78200        165          4	 1	 10	 1	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O96	Ni	Ni2	O2	
+78300        164          4	 1	 10	 1	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O104	Ni	Ni2	O2	
+78400        160          4	 1	 10	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O102	Ni	Ni2	O2	
+78500        161          4	 1	 10	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O100	Ni	Ni2	O2	
+78600        162          4	 1	 10	 1	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O104	Ni	Ni2	O2	
+78700        160          4	 1	 10	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O102	Ni	Ni2	O2	
+78800        161          4	 1	 10	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O104	Ni	Ni2	O2	
+78900        160          4	 1	 10	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O102	Ni	Ni2	O2	
+79000        161          4	 1	 10	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O94	Ni	O2	
+79100        162          3	 1	 8	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O94	Ni	O2	
+79200        162          3	 1	 8	 153	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O98	Ni	O2	
+79300        160          3	 1	 8	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O104	Ni	O2	
+79400        157          3	 1	 8	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O100	Ni	O2	
+79500        159          3	 1	 8	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O92	Ni	O2	
+79600        163          3	 1	 8	 154	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O100	Ni	O2	
+79700        159          3	 1	 8	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O100	Ni	O2	
+79800        159          3	 1	 8	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O104	Ni	O2	
+79900        157          3	 1	 8	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O104	Ni	O2	
+80000        157          3	 1	 8	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O104	Ni	O2	
+80100        160          3	 1	 11	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O108	Ni	O2	
+80200        158          3	 1	 11	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O100	Ni	O2	
+80300        162          3	 1	 11	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O96	Ni	O2	
+80400        164          3	 1	 11	 152	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O106	Ni	O2	
+80500        159          3	 1	 11	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O102	Ni	O2	
+80600        161          3	 1	 11	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O100	Ni	O2	
+80700        162          3	 1	 11	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O104	Ni	O2	
+80800        160          3	 1	 11	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O108	Ni	O2	
+80900        158          3	 1	 11	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O106	Ni	O2	
+81000        159          3	 1	 11	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O102	Ni	Ni2	O2	
+81100        163          4	 1	 12	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O104	Ni	Ni2	O2	
+81200        162          4	 1	 12	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O108	Ni	Ni2	O2	
+81300        160          4	 1	 12	 1	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O106	Ni	Ni2	O2	
+81400        161          4	 1	 12	 1	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O110	Ni	Ni2	O2	
+81500        159          4	 1	 12	 1	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O108	Ni	Ni2	O2	
+81600        160          4	 1	 12	 1	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O108	Ni	Ni2	O2	
+81700        160          4	 1	 12	 1	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O104	Ni	Ni2	O2	
+81800        162          4	 1	 12	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O108	Ni	Ni2	O2	
+81900        160          4	 1	 12	 1	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O102	Ni	Ni2	O2	
+82000        163          4	 1	 12	 1	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O100	Ni	O2	
+82100        158          3	 1	 7	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O108	Ni	O2	
+82200        154          3	 1	 7	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O104	Ni	O2	
+82300        156          3	 1	 7	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O104	Ni	O2	
+82400        156          3	 1	 7	 148	
+# Timestep     No_Moles     No_Specs     Pd744Ni200O102	Ni	PdO2	O2	
+82500        157          4	 1	 7	 1	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O104	Ni	O2	
+82600        156          3	 1	 7	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O108	Ni	O2	
+82700        154          3	 1	 7	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O108	Ni	O2	
+82800        154          3	 1	 7	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O104	Ni	O2	
+82900        156          3	 1	 7	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O104	Ni	O2	
+83000        156          3	 1	 7	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O106	Ni	O2	
+83100        161          3	 1	 13	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O110	Ni	O2	
+83200        159          3	 1	 13	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O108	Ni	O2	
+83300        160          3	 1	 13	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O104	Ni	O2	
+83400        162          3	 1	 13	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O102	Ni	O2	
+83500        163          3	 1	 13	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O102	Ni	O2	
+83600        163          3	 1	 13	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O106	Ni	O2	
+83700        161          3	 1	 13	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O102	Ni	O2	
+83800        163          3	 1	 13	 149	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O106	Ni	O2	
+83900        161          3	 1	 13	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O108	Ni	O2	
+84000        160          3	 1	 13	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O104	Ni	O2	
+84100        164          3	 1	 15	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O108	Ni	O2	
+84200        162          3	 1	 15	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O108	Ni	O2	
+84300        162          3	 1	 15	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O104	Ni	O2	
+84400        164          3	 1	 15	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O106	Ni	O2	
+84500        163          3	 1	 15	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O108	Ni	O2	
+84600        162          3	 1	 15	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O106	Ni	O2	
+84700        163          3	 1	 15	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O106	Ni	O2	
+84800        163          3	 1	 15	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O110	Ni	O2	
+84900        161          3	 1	 15	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O110	Ni	O2	
+85000        161          3	 1	 15	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O98	Ni	O2	
+85100        162          3	 1	 10	 151	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O106	Ni	O2	
+85200        158          3	 1	 10	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O100	Ni	O2	
+85300        161          3	 1	 10	 150	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O104	Ni	O2	
+85400        159          3	 1	 10	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O108	Ni	O2	
+85500        157          3	 1	 10	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O110	Ni	O2	
+85600        156          3	 1	 10	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+85700        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O110	Ni	O2	
+85800        156          3	 1	 10	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+85900        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O110	Ni	O2	
+86000        156          3	 1	 10	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O108	Ni	O2	
+86100        161          3	 1	 14	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O110	Ni	O2	
+86200        160          3	 1	 14	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O108	Ni	O2	
+86300        161          3	 1	 14	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O106	Ni	O2	
+86400        162          3	 1	 14	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O106	Ni	O2	
+86500        162          3	 1	 14	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O110	Ni	O2	
+86600        160          3	 1	 14	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O112	Ni	O2	
+86700        159          3	 1	 14	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O112	Ni	O2	
+86800        159          3	 1	 14	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O112	Ni	O2	
+86900        159          3	 1	 14	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O112	Ni	O2	
+87000        159          3	 1	 14	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+87100        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O112	Ni	O2	
+87200        154          3	 1	 9	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O112	Ni	O2	
+87300        154          3	 1	 9	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O108	Ni	O2	
+87400        156          3	 1	 9	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+87500        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+87600        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O108	Ni	O2	
+87700        156          3	 1	 9	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+87800        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O106	Ni	O2	
+87900        157          3	 1	 9	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O108	Ni	O2	
+88000        156          3	 1	 9	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O108	Ni	O2	
+88100        157          3	 1	 10	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O106	Ni	O2	
+88200        158          3	 1	 10	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+88300        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+88400        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+88500        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O110	Ni	O2	
+88600        156          3	 1	 10	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O108	Ni	O2	
+88700        157          3	 1	 10	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O110	Ni	O2	
+88800        156          3	 1	 10	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+88900        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O114	Ni	O2	
+89000        154          3	 1	 10	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O110	Ni	O2	
+89100        154          3	 1	 8	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O112	Ni	O2	
+89200        153          3	 1	 8	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O110	Ni	O2	
+89300        154          3	 1	 8	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O108	Ni	O2	
+89400        155          3	 1	 8	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O106	Ni	O2	
+89500        156          3	 1	 8	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O108	Ni	O2	
+89600        155          3	 1	 8	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O110	Ni	O2	
+89700        154          3	 1	 8	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O112	Ni	O2	
+89800        153          3	 1	 8	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O112	Ni	O2	
+89900        153          3	 1	 8	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O106	Ni	O2	
+90000        156          3	 1	 8	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O106	Ni	O2	
+90100        161          3	 1	 13	 147	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni	O2	
+90200        158          3	 1	 13	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni	O2	
+90300        158          3	 1	 13	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni	O2	
+90400        158          3	 1	 13	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O110	Ni	O2	
+90500        159          3	 1	 13	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O104	Ni	O2	
+90600        162          3	 1	 13	 148	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O110	Ni	O2	
+90700        159          3	 1	 13	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O108	Ni	O2	
+90800        160          3	 1	 13	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni	O2	
+90900        158          3	 1	 13	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni	O2	
+91000        158          3	 1	 13	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O112	Ni	O2	
+91100        159          3	 1	 14	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O110	Ni	O2	
+91200        160          3	 1	 14	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O112	Ni	O2	
+91300        159          3	 1	 14	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O110	Ni	O2	
+91400        160          3	 1	 14	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O112	Ni	O2	
+91500        159          3	 1	 14	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O114	Ni	O2	
+91600        158          3	 1	 14	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O118	Ni	O2	
+91700        156          3	 1	 14	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O118	Ni	O2	
+91800        156          3	 1	 14	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O122	Ni	O2	
+91900        154          3	 1	 14	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O118	Ni	O2	
+92000        156          3	 1	 14	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O114	Ni	O2	
+92100        158          3	 1	 14	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O120	Ni	O2	
+92200        155          3	 1	 14	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O116	Ni	O2	
+92300        157          3	 1	 14	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O114	Ni	O2	
+92400        158          3	 1	 14	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O114	Ni	O2	
+92500        158          3	 1	 14	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O114	Ni	O2	
+92600        158          3	 1	 14	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O120	Ni	O2	
+92700        155          3	 1	 14	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O122	Ni	O2	
+92800        154          3	 1	 14	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O122	Ni	O2	
+92900        154          3	 1	 14	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O118	Ni	O2	
+93000        156          3	 1	 14	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O116	Ni	O2	
+93100        152          3	 1	 9	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O118	Ni	O2	
+93200        151          3	 1	 9	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+93300        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+93400        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O108	Ni	O2	
+93500        156          3	 1	 9	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+93600        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O118	Ni	O2	
+93700        151          3	 1	 9	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+93800        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+93900        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O116	Ni	O2	
+94000        152          3	 1	 9	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O116	Ni	O2	
+94100        150          3	 1	 7	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O118	Ni	O2	
+94200        149          3	 1	 7	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O118	Ni	O2	
+94300        149          3	 1	 7	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O116	Ni	O2	
+94400        150          3	 1	 7	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O118	Ni	O2	
+94500        149          3	 1	 7	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O115	Ni	O2	O	
+94600        151          4	 1	 7	 142	 1	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O118	Ni	O2	
+94700        149          3	 1	 7	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O116	Ni	O2	
+94800        150          3	 1	 7	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O116	Ni	O2	
+94900        150          3	 1	 7	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O110	Ni	O2	
+95000        153          3	 1	 7	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+95100        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O114	Ni	O2	
+95200        154          3	 1	 10	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O116	Ni	O2	
+95300        153          3	 1	 10	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O108	Ni	O2	
+95400        157          3	 1	 10	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+95500        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O114	Ni	O2	
+95600        154          3	 1	 10	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O116	Ni	O2	
+95700        153          3	 1	 10	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O114	Ni	O2	
+95800        154          3	 1	 10	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O112	Ni	O2	
+95900        155          3	 1	 10	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O114	Ni	O2	
+96000        154          3	 1	 10	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O116	Ni	O2	
+96100        149          3	 1	 6	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O110	Ni	O2	
+96200        152          3	 1	 6	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O110	Ni	O2	
+96300        152          3	 1	 6	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O114	Ni	O2	
+96400        150          3	 1	 6	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O118	Ni	O2	
+96500        148          3	 1	 6	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O116	Ni	O2	
+96600        149          3	 1	 6	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O114	Ni	O2	
+96700        150          3	 1	 6	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O114	Ni	O2	
+96800        150          3	 1	 6	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O116	Ni	O2	
+96900        149          3	 1	 6	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O120	Ni	O2	
+97000        147          3	 1	 6	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O116	Ni	Ni2	O2	
+97100        149          4	 1	 4	 2	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O116	Ni	Ni2	O2	
+97200        149          4	 1	 4	 2	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O116	Ni	Ni2	O2	
+97300        149          4	 1	 4	 2	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O120	Ni	Ni2	O2	
+97400        147          4	 1	 4	 2	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O116	Ni	Ni2	O2	
+97500        149          4	 1	 4	 2	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O112	Ni	Ni2	O2	
+97600        151          4	 1	 4	 2	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O118	Ni	Ni2	O2	
+97700        148          4	 1	 4	 2	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O112	Ni	Ni2	O2	
+97800        151          4	 1	 4	 2	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O114	Ni	Ni2	O2	
+97900        150          4	 1	 4	 2	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O114	Ni	Ni2	O2	
+98000        150          4	 1	 4	 2	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O116	Ni2	Ni	O2	
+98100        155          4	 1	 1	 11	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O118	Ni2	Ni	O2	
+98200        154          4	 1	 1	 11	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O114	Ni2	Ni	O2	
+98300        156          4	 1	 1	 11	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O114	Ni2	Ni	O2	
+98400        156          4	 1	 1	 11	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O110	Ni2	Ni	O2	
+98500        158          4	 1	 1	 11	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni2	Ni	O2	
+98600        157          4	 1	 1	 11	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O114	Ni2	Ni	O2	
+98700        156          4	 1	 1	 11	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O110	Ni2	Ni	O2	
+98800        158          4	 1	 1	 11	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O114	Ni2	Ni	O2	
+98900        156          4	 1	 1	 11	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O110	Ni2	Ni	O2	
+99000        158          4	 1	 1	 11	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O118	Ni2	Ni	O2	
+99100        154          4	 1	 1	 11	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O124	Ni2	Ni	O2	
+99200        151          4	 1	 1	 11	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O120	Ni2	Ni	O2	
+99300        153          4	 1	 1	 11	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni2	Ni	O2	
+99400        157          4	 1	 1	 11	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O112	Ni2	Ni	O2	
+99500        157          4	 1	 1	 11	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O116	Ni2	Ni	O2	
+99600        155          4	 1	 1	 11	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O120	Ni2	Ni	O2	
+99700        153          4	 1	 1	 11	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O116	Ni2	Ni	O2	
+99800        155          4	 1	 1	 11	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O108	Ni2	Ni	O2	
+99900        159          4	 1	 1	 11	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O110	Ni2	Ni	O2	
+100000        158          4	 1	 1	 11	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O110	Ni	O2	
+100100        155          3	 1	 9	 145	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O118	Ni	O2	
+100200        151          3	 1	 9	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O120	Ni	O2	
+100300        150          3	 1	 9	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O112	Ni	O2	
+100400        154          3	 1	 9	 144	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O108	Ni	O2	
+100500        156          3	 1	 9	 146	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O114	Ni	O2	
+100600        153          3	 1	 9	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O118	Ni	O2	
+100700        151          3	 1	 9	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O116	Ni	O2	
+100800        152          3	 1	 9	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O118	Ni	O2	
+100900        151          3	 1	 9	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O114	Ni	O2	
+101000        153          3	 1	 9	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O116	Ni	O2	
+101100        158          3	 1	 15	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O120	Ni	O2	
+101200        156          3	 1	 15	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O114	Ni	O2	
+101300        159          3	 1	 15	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O114	Ni	O2	
+101400        159          3	 1	 15	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O124	Ni	O2	
+101500        154          3	 1	 15	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O122	Ni	O2	
+101600        155          3	 1	 15	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O118	Ni	O2	
+101700        157          3	 1	 15	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O114	Ni	O2	
+101800        159          3	 1	 15	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O116	Ni	O2	
+101900        158          3	 1	 15	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O120	Ni	O2	
+102000        156          3	 1	 15	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O120	Ni	Ni2	O2	
+102100        151          4	 1	 9	 1	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O120	Ni	Ni2	O2	
+102200        151          4	 1	 9	 1	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O120	Ni	Ni2	O2	
+102300        151          4	 1	 9	 1	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O120	Ni	Ni2	O2	
+102400        151          4	 1	 9	 1	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O120	Ni	Ni2	O2	
+102500        151          4	 1	 9	 1	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O118	Ni	Ni2	O2	
+102600        152          4	 1	 9	 1	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O118	Ni	Ni2	O2	
+102700        152          4	 1	 9	 1	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O122	Ni	Ni2	O2	
+102800        150          4	 1	 9	 1	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O120	Ni	Ni2	O2	
+102900        151          4	 1	 9	 1	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O120	Ni	Ni2	O2	
+103000        151          4	 1	 9	 1	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O122	Ni	O2	
+103100        149          3	 1	 9	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O116	Ni	O2	
+103200        152          3	 1	 9	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O116	Ni	O2	
+103300        152          3	 1	 9	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O118	Ni	O2	
+103400        151          3	 1	 9	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O120	Ni	O2	
+103500        150          3	 1	 9	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O120	Ni	O2	
+103600        150          3	 1	 9	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O124	Ni	O2	
+103700        148          3	 1	 9	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O122	Ni	O2	
+103800        149          3	 1	 9	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O120	Ni	O2	
+103900        150          3	 1	 9	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O122	Ni	O2	
+104000        149          3	 1	 9	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O130	Ni	Ni2	O2	
+104100        149          4	 1	 11	 2	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O124	Ni	Ni2	O2	
+104200        152          4	 1	 11	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O124	Ni	Ni2	O2	
+104300        152          4	 1	 11	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O116	Ni	Ni2	O2	
+104400        156          4	 1	 11	 2	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O122	Ni	Ni2	O2	
+104500        153          4	 1	 11	 2	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O124	Ni	Ni2	O2	
+104600        152          4	 1	 11	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O122	Ni	Ni2	O2	
+104700        153          4	 1	 11	 2	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O122	Ni	Ni2	O2	
+104800        153          4	 1	 11	 2	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O120	Ni	Ni2	O2	
+104900        154          4	 1	 11	 2	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni192O124	Ni	Ni2	O2	
+105000        152          4	 1	 11	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O128	Ni	Ni2	O2	
+105100        151          4	 1	 12	 2	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O126	Ni	Ni2	O2	
+105200        152          4	 1	 12	 2	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O124	Ni	Ni2	O2	
+105300        153          4	 1	 12	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O114	Ni	Ni2	O2	
+105400        158          4	 1	 12	 2	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O124	Ni	Ni2	O2	
+105500        153          4	 1	 12	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O116	Ni	Ni2	O2	
+105600        157          4	 1	 12	 2	 142	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O114	Ni	Ni2	O2	
+105700        158          4	 1	 12	 2	 143	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O118	Ni	Ni2	O2	
+105800        156          4	 1	 12	 2	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O122	Ni	Ni2	O2	
+105900        154          4	 1	 12	 2	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni191O122	Ni	Ni2	O2	
+106000        154          4	 1	 12	 2	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O126	Ni	O2	
+106100        150          3	 1	 12	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O126	Ni	O2	
+106200        150          3	 1	 12	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O124	Ni	O2	
+106300        151          3	 1	 12	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O120	Ni	O2	
+106400        153          3	 1	 12	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O124	Ni	O2	
+106500        151          3	 1	 12	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O124	Ni	O2	
+106600        151          3	 1	 12	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O122	Ni	O2	
+106700        152          3	 1	 12	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O128	Ni	O2	
+106800        149          3	 1	 12	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O120	Ni	O2	
+106900        153          3	 1	 12	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O120	Ni	O2	
+107000        153          3	 1	 12	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O128	Ni	Ni2	O2	
+107100        146          4	 1	 7	 2	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O126	Ni	Ni2	O2	
+107200        147          4	 1	 7	 2	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O128	Ni	Ni2	O2	
+107300        146          4	 1	 7	 2	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O124	Ni	Ni2	O2	
+107400        148          4	 1	 7	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O126	Ni	Ni2	O2	
+107500        147          4	 1	 7	 2	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O124	Ni	Ni2	O2	
+107600        148          4	 1	 7	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O128	Ni	Ni2	O2	
+107700        146          4	 1	 7	 2	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O132	Ni	Ni2	O2	
+107800        144          4	 1	 7	 2	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O124	Ni	Ni2	O2	
+107900        148          4	 1	 7	 2	 138	
+# Timestep     No_Moles     No_Specs     Pd744Ni196O116	Ni	Ni2	PdO2	O2	
+108000        152          5	 1	 7	 2	 1	 141	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O126	Ni	O2	
+108100        146          3	 1	 8	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O126	Ni	O2	
+108200        146          3	 1	 8	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O124	Ni	O2	
+108300        147          3	 1	 8	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O124	Ni	O2	
+108400        147          3	 1	 8	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O128	Ni	O2	
+108500        145          3	 1	 8	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O134	Ni	O2	
+108600        142          3	 1	 8	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O126	Ni	O2	
+108700        146          3	 1	 8	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O130	Ni	O2	
+108800        144          3	 1	 8	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O126	Ni	O2	
+108900        146          3	 1	 8	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O124	Ni	O2	
+109000        147          3	 1	 8	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+109100        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O122	Ni	O2	
+109200        147          3	 1	 7	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O126	Ni	O2	
+109300        145          3	 1	 7	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	
+109400        144          3	 1	 7	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+109500        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O126	Ni	O2	
+109600        145          3	 1	 7	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O132	Ni	O2	
+109700        142          3	 1	 7	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	
+109800        144          3	 1	 7	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	
+109900        144          3	 1	 7	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O126	Ni	O2	
+110000        145          3	 1	 7	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O120	Ni	O2	
+110100        155          3	 1	 14	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O124	Ni	O2	
+110200        153          3	 1	 14	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O124	Ni	O2	
+110300        153          3	 1	 14	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O130	Ni	O2	
+110400        150          3	 1	 14	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O132	Ni	O2	
+110500        149          3	 1	 14	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O132	Ni	O2	
+110600        149          3	 1	 14	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O128	Ni	O2	
+110700        151          3	 1	 14	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O132	Ni	O2	
+110800        149          3	 1	 14	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O134	Ni	O2	
+110900        148          3	 1	 14	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni193O132	Ni	O2	
+111000        149          3	 1	 14	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	
+111100        144          3	 1	 7	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+111200        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O132	Ni	O2	
+111300        142          3	 1	 7	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O134	Ni	O2	
+111400        141          3	 1	 7	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+111500        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+111600        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+111700        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	O	
+111800        145          4	 1	 7	 135	 2	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O126	Ni	O2	
+111900        145          3	 1	 7	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	
+112000        144          3	 1	 7	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+112100        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O136	Ni	Ni2	O2	
+112200        141          4	 1	 7	 1	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O132	Ni	Ni2	O2	
+112300        143          4	 1	 7	 1	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+112400        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O132	Ni	Ni2	O2	
+112500        143          4	 1	 7	 1	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O136	Ni	Ni2	O2	
+112600        141          4	 1	 7	 1	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+112700        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O132	Ni	Ni2	O2	
+112800        143          4	 1	 7	 1	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O134	Ni	Ni2	O2	
+112900        142          4	 1	 7	 1	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O134	Ni	Ni2	O2	
+113000        142          4	 1	 7	 1	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O132	Ni	O2	
+113100        139          3	 1	 4	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O134	Ni	O2	
+113200        138          3	 1	 4	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O132	Ni	O2	
+113300        139          3	 1	 4	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O130	Ni	O2	
+113400        140          3	 1	 4	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O128	Ni	O2	
+113500        141          3	 1	 4	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O134	Ni	O2	
+113600        138          3	 1	 4	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O128	Ni	O2	
+113700        141          3	 1	 4	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O126	Ni	O2	
+113800        142          3	 1	 4	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O130	Ni	O2	
+113900        140          3	 1	 4	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O132	Ni	O2	
+114000        139          3	 1	 4	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O126	Ni	O2	
+114100        144          3	 1	 6	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O126	Ni	O2	
+114200        144          3	 1	 6	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O130	Ni	O2	
+114300        142          3	 1	 6	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O126	Ni	O2	
+114400        144          3	 1	 6	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O128	Ni	O2	
+114500        143          3	 1	 6	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O132	Ni	O2	
+114600        141          3	 1	 6	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+114700        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O132	Ni	O2	
+114800        141          3	 1	 6	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O128	Ni	O2	
+114900        143          3	 1	 6	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O132	Ni	O2	
+115000        141          3	 1	 6	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O128	Ni	O2	
+115100        148          3	 1	 11	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O132	Ni	O2	
+115200        146          3	 1	 11	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O126	Ni	O2	
+115300        149          3	 1	 11	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O128	Ni	O2	
+115400        148          3	 1	 11	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O128	Ni	O2	
+115500        148          3	 1	 11	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O132	Ni	O2	
+115600        146          3	 1	 11	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O134	Ni	O2	
+115700        145          3	 1	 11	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O132	Ni	O2	
+115800        146          3	 1	 11	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O132	Ni	O2	
+115900        146          3	 1	 11	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O130	Ni	O2	
+116000        147          3	 1	 11	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+116100        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O134	Ni	Ni2	O2	
+116200        142          4	 1	 7	 1	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O128	Ni	Ni2	O2	
+116300        145          4	 1	 7	 1	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+116400        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+116500        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+116600        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O132	Ni	Ni2	O2	
+116700        143          4	 1	 7	 1	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O128	Ni	Ni2	O2	
+116800        145          4	 1	 7	 1	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	Ni2	O2	
+116900        144          4	 1	 7	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O134	Ni	Ni2	O2	
+117000        142          4	 1	 7	 1	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O136	Ni	O2	
+117100        136          3	 1	 3	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O134	Ni	O2	
+117200        137          3	 1	 3	 133	
+# Timestep     No_Moles     No_Specs     Pd744Ni204O136	Ni	PdO2	O2	
+117300        136          4	 1	 3	 1	 131	
+# Timestep     No_Moles     No_Specs     Pd744Ni204O128	Ni	PdO2	O2	
+117400        140          4	 1	 3	 1	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O126	Ni	O2	
+117500        141          3	 1	 3	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O134	Ni	O2	
+117600        137          3	 1	 3	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O136	Ni	O2	
+117700        136          3	 1	 3	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O132	Ni	O2	
+117800        138          3	 1	 3	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O134	Ni	O2	
+117900        137          3	 1	 3	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni204O132	Ni	O2	
+118000        138          3	 1	 3	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O134	Ni	O2	
+118100        142          3	 1	 8	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	O2	
+118200        141          3	 1	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	O2	
+118300        141          3	 1	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O130	Ni	O2	
+118400        144          3	 1	 8	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O132	Ni	O2	
+118500        143          3	 1	 8	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O140	Ni	O2	
+118600        139          3	 1	 8	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O138	Ni	O2	
+118700        140          3	 1	 8	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O140	Ni	O2	
+118800        139          3	 1	 8	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O140	Ni	O2	
+118900        139          3	 1	 8	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	O2	
+119000        141          3	 1	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O136	Ni	O2	
+119100        137          3	 1	 4	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O136	Ni	O2	
+119200        137          3	 1	 4	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O134	Ni	O2	
+119300        138          3	 1	 4	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O130	Ni	O2	
+119400        140          3	 1	 4	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O132	Ni	O2	
+119500        139          3	 1	 4	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O138	Ni	O2	
+119600        136          3	 1	 4	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O138	Ni	O2	
+119700        136          3	 1	 4	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O130	Ni	O2	
+119800        140          3	 1	 4	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O138	Ni	O2	
+119900        136          3	 1	 4	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O138	Ni	O2	
+120000        136          3	 1	 4	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O138	Ni	Ni2	O2	
+120100        143          4	 1	 9	 2	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O130	Ni	Ni2	O2	
+120200        147          4	 1	 9	 2	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O132	Ni	Ni2	O2	
+120300        146          4	 1	 9	 2	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O138	Ni	Ni2	O2	
+120400        143          4	 1	 9	 2	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O136	Ni	Ni2	O2	
+120500        144          4	 1	 9	 2	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O140	Ni	Ni2	O2	
+120600        142          4	 1	 9	 2	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O140	Ni	Ni2	O2	
+120700        142          4	 1	 9	 2	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O138	Ni	Ni2	O2	
+120800        143          4	 1	 9	 2	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O144	Ni	Ni2	O2	
+120900        140          4	 1	 9	 2	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni194O136	Ni	Ni2	O2	
+121000        144          4	 1	 9	 2	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O126	Ni2	Ni	O2	
+121100        148          4	 1	 2	 8	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O134	Ni2	Ni	O2	
+121200        144          4	 1	 2	 8	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O130	Ni2	Ni	O2	
+121300        146          4	 1	 2	 8	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O138	Ni2	Ni	O2	
+121400        142          4	 1	 2	 8	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O134	Ni2	Ni	O2	
+121500        144          4	 1	 2	 8	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O132	Ni2	Ni	O2	
+121600        145          4	 1	 2	 8	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O136	Ni2	Ni	O2	
+121700        143          4	 1	 2	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O138	Ni2	Ni	O2	
+121800        142          4	 1	 2	 8	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O138	Ni2	Ni	O2	
+121900        142          4	 1	 2	 8	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O134	Ni2	Ni	O2	
+122000        144          4	 1	 2	 8	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O136	Ni	O2	
+122100        142          3	 1	 9	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O132	Ni	O2	
+122200        144          3	 1	 9	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O134	Ni	O2	
+122300        143          3	 1	 9	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O132	Ni	O2	
+122400        144          3	 1	 9	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	O2	
+122500        145          3	 1	 9	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O130	Ni	O2	
+122600        145          3	 1	 9	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O128	Ni	O2	
+122700        146          3	 1	 9	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O126	Ni	O2	
+122800        147          3	 1	 9	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O124	Ni	O2	
+122900        148          3	 1	 9	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O132	Ni	O2	
+123000        144          3	 1	 9	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O128	Ni	O2	
+123100        149          3	 1	 12	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O136	Ni	O2	
+123200        145          3	 1	 12	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O134	Ni	O2	
+123300        146          3	 1	 12	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O128	Ni	O2	
+123400        149          3	 1	 12	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O136	Ni	O2	
+123500        145          3	 1	 12	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O134	Ni	O2	
+123600        146          3	 1	 12	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O124	Ni	O2	
+123700        151          3	 1	 12	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O126	Ni	O2	
+123800        150          3	 1	 12	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O128	Ni	O2	
+123900        149          3	 1	 12	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O126	Ni	O2	
+124000        150          3	 1	 12	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O120	Ni	O2	
+124100        148          3	 1	 7	 140	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O126	Ni	O2	
+124200        145          3	 1	 7	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+124300        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	
+124400        144          3	 1	 7	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O124	Ni	O2	
+124500        146          3	 1	 7	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O122	Ni	O2	
+124600        147          3	 1	 7	 139	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O124	Ni	O2	
+124700        146          3	 1	 7	 138	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+124800        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O126	Ni	O2	
+124900        145          3	 1	 7	 137	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O130	Ni	O2	
+125000        143          3	 1	 7	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O128	Ni	O2	
+125100        143          3	 1	 6	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O132	Ni	O2	
+125200        141          3	 1	 6	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+125300        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O132	Ni	O2	
+125400        141          3	 1	 6	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+125500        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+125600        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+125700        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+125800        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+125900        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+126000        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O142	Ni	O2	
+126100        138          3	 1	 8	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O138	Ni	O2	
+126200        140          3	 1	 8	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O132	Ni	O2	
+126300        143          3	 1	 8	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O130	Ni	O2	
+126400        144          3	 1	 8	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	O2	
+126500        141          3	 1	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O132	Ni	O2	
+126600        143          3	 1	 8	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	O2	
+126700        141          3	 1	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	O2	
+126800        141          3	 1	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	O2	
+126900        141          3	 1	 8	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O134	Ni	O2	
+127000        142          3	 1	 8	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+127100        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O132	Ni	O2	
+127200        141          3	 1	 6	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+127300        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+127400        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+127500        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+127600        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+127700        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+127800        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O128	Ni	O2	
+127900        143          3	 1	 6	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O130	Ni	O2	
+128000        142          3	 1	 6	 135	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O142	Ni	O2	
+128100        139          3	 1	 9	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O140	Ni	O2	
+128200        140          3	 1	 9	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni	O2	
+128300        136          3	 1	 9	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O136	Ni	O2	
+128400        142          3	 1	 9	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O140	Ni	O2	
+128500        140          3	 1	 9	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O138	Ni	O2	
+128600        141          3	 1	 9	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O138	Ni	O2	
+128700        141          3	 1	 9	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O144	Ni	O2	
+128800        138          3	 1	 9	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O140	Ni	O2	
+128900        140          3	 1	 9	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O144	Ni	O2	
+129000        138          3	 1	 9	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+129100        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+129200        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+129300        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+129400        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+129500        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+129600        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+129700        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O132	Ni	O2	
+129800        141          3	 1	 6	 134	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+129900        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+130000        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+130100        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+130200        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+130300        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+130400        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+130500        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+130600        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+130700        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+130800        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+130900        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+131000        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O140	Ni	O2	
+131100        135          3	 1	 4	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O138	Ni	O2	
+131200        136          3	 1	 4	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O140	Ni	O2	
+131300        135          3	 1	 4	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O138	Ni	O2	
+131400        136          3	 1	 4	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O144	Ni	O2	
+131500        133          3	 1	 4	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O148	Ni	O2	
+131600        131          3	 1	 4	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O142	Ni	O2	
+131700        134          3	 1	 4	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O144	Ni	O2	
+131800        133          3	 1	 4	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O146	Ni	O2	
+131900        132          3	 1	 4	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni203O144	Ni	O2	
+132000        133          3	 1	 4	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+132100        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+132200        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+132300        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+132400        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+132500        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+132600        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+132700        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+132800        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+132900        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+133000        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O138	Ni	O2	
+133100        139          3	 1	 7	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O138	Ni	O2	
+133200        139          3	 1	 7	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O128	Ni	O2	
+133300        144          3	 1	 7	 136	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O136	Ni	O2	
+133400        140          3	 1	 7	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O138	Ni	O2	
+133500        139          3	 1	 7	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O142	Ni	O2	
+133600        137          3	 1	 7	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O142	Ni	O2	
+133700        137          3	 1	 7	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O142	Ni	O2	
+133800        137          3	 1	 7	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O138	Ni	O2	
+133900        139          3	 1	 7	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O134	Ni	O2	
+134000        141          3	 1	 7	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O142	Ni	O2	
+134100        138          3	 1	 8	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	O2	
+134200        137          3	 1	 8	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	O2	
+134300        137          3	 1	 8	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O142	Ni	O2	
+134400        138          3	 1	 8	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	O2	
+134500        137          3	 1	 8	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	O2	
+134600        137          3	 1	 8	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	O2	
+134700        137          3	 1	 8	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O138	Ni	O2	
+134800        140          3	 1	 8	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	O2	
+134900        137          3	 1	 8	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O141	Ni	O2	O	
+135000        139          4	 1	 8	 129	 1	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O140	Ni	Ni2	O2	
+135100        142          4	 1	 10	 1	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O142	Ni	Ni2	O2	
+135200        141          4	 1	 10	 1	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O140	Ni	Ni2	O2	
+135300        142          4	 1	 10	 1	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O142	Ni	Ni2	O2	
+135400        141          4	 1	 10	 1	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O146	Ni	Ni2	O2	
+135500        139          4	 1	 10	 1	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O140	Ni	Ni2	O2	
+135600        142          4	 1	 10	 1	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O138	Ni	Ni2	O2	
+135700        143          4	 1	 10	 1	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O146	Ni	Ni2	O2	
+135800        139          4	 1	 10	 1	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O146	Ni	Ni2	O2	
+135900        139          4	 1	 10	 1	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O144	Ni	Ni2	O2	
+136000        140          4	 1	 10	 1	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O150	Ni	O2	
+136100        135          3	 1	 9	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O140	Ni	O2	
+136200        140          3	 1	 9	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni	O2	
+136300        136          3	 1	 9	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O138	Ni	O2	
+136400        141          3	 1	 9	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O140	Ni	O2	
+136500        140          3	 1	 9	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O146	Ni	O2	
+136600        137          3	 1	 9	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O146	Ni	O2	
+136700        137          3	 1	 9	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni	O2	
+136800        136          3	 1	 9	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni	O2	
+136900        136          3	 1	 9	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O138	Ni	O2	
+137000        141          3	 1	 9	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+137100        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+137200        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+137300        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+137400        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+137500        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+137600        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O148	Ni	O2	
+137700        133          3	 1	 6	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O150	Ni	O2	
+137800        132          3	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O148	Ni	O2	
+137900        133          3	 1	 6	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+138000        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O144	Ni	O2	
+138100        131          3	 1	 2	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O144	Ni	O2	
+138200        131          3	 1	 2	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O140	Ni	O2	
+138300        133          3	 1	 2	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O140	Ni	O2	
+138400        133          3	 1	 2	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O142	Ni	O2	
+138500        132          3	 1	 2	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O142	Ni	O2	
+138600        132          3	 1	 2	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O144	Ni	O2	
+138700        131          3	 1	 2	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O140	Ni	O2	
+138800        133          3	 1	 2	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O138	Ni	O2	
+138900        134          3	 1	 2	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni205O136	Ni	O2	
+139000        135          3	 1	 2	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+139100        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+139200        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+139300        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+139400        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O136	Ni	O2	
+139500        139          3	 1	 6	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+139600        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+139700        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+139800        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+139900        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+140000        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+140100        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O150	Ni	O2	
+140200        132          3	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+140300        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+140400        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+140500        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+140600        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+140700        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+140800        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+140900        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+141000        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O142	Ni	O2	
+141100        137          3	 1	 7	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O142	Ni	O2	
+141200        137          3	 1	 7	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O146	Ni	O2	
+141300        135          3	 1	 7	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O144	Ni	O2	
+141400        136          3	 1	 7	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O144	Ni	O2	
+141500        136          3	 1	 7	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O144	Ni	O2	
+141600        136          3	 1	 7	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O144	Ni	O2	
+141700        136          3	 1	 7	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O146	Ni	O2	
+141800        135          3	 1	 7	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O146	Ni	O2	
+141900        135          3	 1	 7	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O146	Ni	O2	
+142000        135          3	 1	 7	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+142100        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+142200        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+142300        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+142400        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+142500        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O140	Ni	O2	
+142600        137          3	 1	 6	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O142	Ni	O2	
+142700        136          3	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+142800        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O134	Ni	O2	
+142900        140          3	 1	 6	 133	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O138	Ni	O2	
+143000        138          3	 1	 6	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O140	Ni	Ni2	O2	
+143100        140          4	 1	 8	 1	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O148	Ni	Ni2	O2	
+143200        136          4	 1	 8	 1	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O138	Ni	Ni2	O2	
+143300        141          4	 1	 8	 1	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O138	Ni	Ni2	O2	
+143400        141          4	 1	 8	 1	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O140	Ni	Ni2	O2	
+143500        140          4	 1	 8	 1	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O146	Ni	Ni2	O2	
+143600        137          4	 1	 8	 1	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O142	Ni	Ni2	O2	
+143700        139          4	 1	 8	 1	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O144	Ni	Ni2	O2	
+143800        138          4	 1	 8	 1	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O142	Ni	Ni2	O2	
+143900        139          4	 1	 8	 1	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O152	Ni	Ni2	O2	
+144000        134          4	 1	 8	 1	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O150	Ni	O2	
+144100        131          3	 1	 5	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O144	Ni	O2	
+144200        134          3	 1	 5	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O142	Ni	O2	
+144300        135          3	 1	 5	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O140	Ni	O2	
+144400        136          3	 1	 5	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O148	Ni	O2	
+144500        132          3	 1	 5	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O150	Ni	O2	
+144600        131          3	 1	 5	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O148	Ni	O2	
+144700        132          3	 1	 5	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O146	Ni	O2	
+144800        133          3	 1	 5	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O144	Ni	O2	
+144900        134          3	 1	 5	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O146	Ni	O2	
+145000        133          3	 1	 5	 127	
+# Timestep     No_Moles     No_Specs     Pd744Ni199O138	Ni	Ni2	PdO2	O2	
+145100        139          5	 1	 6	 1	 1	 130	
+# Timestep     No_Moles     No_Specs     Pd744Ni199O140	Ni	Ni2	PdO4	O2	
+145200        137          5	 1	 6	 1	 1	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O140	Ni	Ni2	O2	
+145300        138          4	 1	 6	 1	 130	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O142	Ni	Ni2	O2	
+145400        137          4	 1	 6	 1	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O142	Ni	Ni2	O2	
+145500        137          4	 1	 6	 1	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O136	Ni	Ni2	O2	
+145600        140          4	 1	 6	 1	 132	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	Ni2	O2	
+145700        136          4	 1	 6	 1	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	Ni2	O2	
+145800        136          4	 1	 6	 1	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O144	Ni	Ni2	O2	
+145900        136          4	 1	 6	 1	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O138	Ni	Ni2	O2	
+146000        139          4	 1	 6	 1	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O144	Ni	O2	
+146100        139          3	 1	 10	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O142	Ni	O2	
+146200        140          3	 1	 10	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O148	Ni	O2	
+146300        137          3	 1	 10	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O148	Ni	O2	
+146400        137          3	 1	 10	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O148	Ni	O2	
+146500        137          3	 1	 10	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O146	Ni	O2	
+146600        138          3	 1	 10	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O150	Ni	O2	
+146700        136          3	 1	 10	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O148	Ni	O2	
+146800        137          3	 1	 10	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O150	Ni	O2	
+146900        136          3	 1	 10	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O150	Ni	O2	
+147000        136          3	 1	 10	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O146	Ni2	Ni	O2	
+147100        135          4	 1	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O154	Ni2	Ni	O2	
+147200        131          4	 1	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O150	Ni2	Ni	O2	
+147300        133          4	 1	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O152	Ni2	Ni	O2	
+147400        132          4	 1	 1	 6	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O142	Ni2	Ni	O2	
+147500        137          4	 1	 1	 6	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O152	Ni2	Ni	O2	
+147600        132          4	 1	 1	 6	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O150	Ni2	Ni	O2	
+147700        133          4	 1	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O150	Ni2	Ni	O2	
+147800        133          4	 1	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O148	Ni2	Ni	O2	
+147900        134          4	 1	 1	 6	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O154	Ni2	Ni	O2	
+148000        131          4	 1	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O150	Ni	O2	
+148100        132          3	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O156	Ni	O2	
+148200        129          3	 1	 6	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O150	Ni	O2	
+148300        132          3	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O148	Ni	O2	
+148400        133          3	 1	 6	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+148500        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O150	Ni	O2	
+148600        132          3	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O156	Ni	O2	
+148700        129          3	 1	 6	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O150	Ni	O2	
+148800        132          3	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+148900        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+149000        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O150	Ni	O2	
+149100        138          3	 1	 12	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O156	Ni	O2	
+149200        135          3	 1	 12	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O156	Ni	O2	
+149300        135          3	 1	 12	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O150	Ni	O2	
+149400        138          3	 1	 12	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O156	Ni	O2	
+149500        135          3	 1	 12	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O158	Ni	O2	
+149600        134          3	 1	 12	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O146	Ni	O2	
+149700        140          3	 1	 12	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O150	Ni	O2	
+149800        138          3	 1	 12	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O154	Ni	O2	
+149900        136          3	 1	 12	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni195O152	Ni	O2	
+150000        137          3	 1	 12	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O156	Ni	O2	
+150100        129          3	 1	 6	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O150	Ni	O2	
+150200        132          3	 1	 6	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O152	Ni	O2	
+150300        131          3	 1	 6	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O148	Ni	O2	
+150400        133          3	 1	 6	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O144	Ni	O2	
+150500        135          3	 1	 6	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O148	Ni	O2	
+150600        133          3	 1	 6	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O146	Ni	O2	
+150700        134          3	 1	 6	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O152	Ni	O2	
+150800        131          3	 1	 6	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O152	Ni	O2	
+150900        131          3	 1	 6	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O152	Ni	O2	
+151000        131          3	 1	 6	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O144	Ni	O2	
+151100        134          3	 1	 5	 128	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O152	Ni	O2	
+151200        130          3	 1	 5	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O148	Ni	O2	
+151300        132          3	 1	 5	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O156	Ni	O2	
+151400        128          3	 1	 5	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O156	Ni	O2	
+151500        128          3	 1	 5	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O156	Ni	O2	
+151600        128          3	 1	 5	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O146	Ni	O2	
+151700        133          3	 1	 5	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O142	Ni	O2	
+151800        135          3	 1	 5	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O152	Ni	O2	
+151900        130          3	 1	 5	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O146	Ni	O2	
+152000        133          3	 1	 5	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O138	Ni	O2	
+152100        143          3	 1	 11	 131	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O142	Ni	O2	
+152200        141          3	 1	 11	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O150	Ni	O2	
+152300        137          3	 1	 11	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O146	Ni	O2	
+152400        139          3	 1	 11	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O150	Ni	O2	
+152500        137          3	 1	 11	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O152	Ni	O2	
+152600        136          3	 1	 11	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O156	Ni	O2	
+152700        134          3	 1	 11	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O152	Ni	O2	
+152800        136          3	 1	 11	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O154	Ni	O2	
+152900        135          3	 1	 11	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni196O150	Ni	O2	
+153000        137          3	 1	 11	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O146	Ni	O2	
+153100        137          3	 1	 9	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O150	Ni	O2	
+153200        135          3	 1	 9	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O158	Ni	O2	
+153300        131          3	 1	 9	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni	O2	
+153400        136          3	 1	 9	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O146	Ni	O2	
+153500        137          3	 1	 9	 127	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O150	Ni	O2	
+153600        135          3	 1	 9	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O154	Ni	O2	
+153700        133          3	 1	 9	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O154	Ni	O2	
+153800        133          3	 1	 9	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O162	Ni	O2	
+153900        129          3	 1	 9	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O158	Ni	O2	
+154000        131          3	 1	 9	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+154100        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O158	Ni	O2	
+154200        128          3	 1	 6	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O156	Ni	O2	
+154300        129          3	 1	 6	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O164	Ni	O2	
+154400        125          3	 1	 6	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+154500        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O156	Ni	O2	
+154600        129          3	 1	 6	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+154700        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+154800        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O160	Ni	O2	
+154900        127          3	 1	 6	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O160	Ni	O2	
+155000        127          3	 1	 6	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O160	Ni	O2	
+155100        127          3	 1	 6	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O156	Ni	O2	O	
+155200        130          4	 1	 6	 121	 2	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O154	Ni	O2	
+155300        130          3	 1	 6	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O162	Ni	O2	
+155400        126          3	 1	 6	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O158	Ni	O2	
+155500        128          3	 1	 6	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O160	Ni	O2	
+155600        127          3	 1	 6	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O162	Ni	O2	
+155700        126          3	 1	 6	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O158	Ni	O2	
+155800        128          3	 1	 6	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O160	Ni	O2	
+155900        127          3	 1	 6	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni201O160	Ni	O2	
+156000        127          3	 1	 6	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O152	Ni	O2	
+156100        134          3	 1	 9	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O154	Ni	O2	
+156200        133          3	 1	 9	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O156	Ni	O2	
+156300        132          3	 1	 9	 122	
+# Timestep     No_Moles     No_Specs     Pd744Ni198O148	PdNiO2	Ni	O2	
+156400        135          4	 1	 1	 8	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O142	Ni	O2	
+156500        139          3	 1	 9	 129	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni	O2	
+156600        136          3	 1	 9	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni	O2	
+156700        136          3	 1	 9	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O154	Ni	O2	
+156800        133          3	 1	 9	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O160	Ni	O2	
+156900        130          3	 1	 9	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O158	Ni	O2	
+157000        131          3	 1	 9	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O160	Ni2	Ni	O2	
+157100        128          4	 1	 2	 5	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni2	Ni	O2	
+157200        134          4	 1	 2	 5	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O154	Ni2	Ni	O2	
+157300        131          4	 1	 2	 5	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O150	Ni2	Ni	O2	
+157400        133          4	 1	 2	 5	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O156	Ni2	Ni	O2	
+157500        130          4	 1	 2	 5	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O158	Ni2	Ni	O2	
+157600        129          4	 1	 2	 5	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O148	Ni2	Ni	O2	
+157700        134          4	 1	 2	 5	 126	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O154	Ni2	Ni	O2	
+157800        131          4	 1	 2	 5	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O159	Ni2	Ni	O2	O	
+157900        129          5	 1	 2	 5	 120	 1	
+# Timestep     No_Moles     No_Specs     Pd745Ni198O152	Ni2	Ni	O2	
+158000        132          4	 1	 2	 5	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O156	Ni	O2	
+158100        131          3	 1	 8	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O152	Ni	O2	
+158200        133          3	 1	 8	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O154	Ni	O2	
+158300        132          3	 1	 8	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O152	Ni	O2	
+158400        133          3	 1	 8	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O158	Ni	O2	
+158500        130          3	 1	 8	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O164	Ni	O2	
+158600        127          3	 1	 8	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O156	Ni	O2	
+158700        131          3	 1	 8	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O154	Ni	O2	
+158800        132          3	 1	 8	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O152	Ni	O2	
+158900        133          3	 1	 8	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O158	Ni	O2	
+159000        130          3	 1	 8	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O158	Ni	O2	
+159100        130          3	 1	 8	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O158	Ni	O2	
+159200        130          3	 1	 8	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O164	Ni	O2	
+159300        127          3	 1	 8	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O154	Ni	O2	
+159400        132          3	 1	 8	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O158	Ni	O2	
+159500        130          3	 1	 8	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O156	Ni	O2	
+159600        131          3	 1	 8	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O156	Ni	O2	
+159700        131          3	 1	 8	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O154	Ni	O2	
+159800        132          3	 1	 8	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O162	Ni	O2	
+159900        128          3	 1	 8	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni199O162	Ni	O2	
+160000        128          3	 1	 8	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O156	Ni	O2	
+160100        130          3	 1	 7	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O154	Ni	O2	
+160200        131          3	 1	 7	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O158	Ni	O2	
+160300        129          3	 1	 7	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O158	Ni	O2	
+160400        129          3	 1	 7	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O160	Ni	O2	
+160500        128          3	 1	 7	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O162	Ni	O2	
+160600        127          3	 1	 7	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O162	Ni	O2	
+160700        127          3	 1	 7	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O164	Ni	O2	
+160800        126          3	 1	 7	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O160	Ni	O2	
+160900        128          3	 1	 7	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O156	Ni	O2	
+161000        130          3	 1	 7	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O156	Ni	Ni2	O2	
+161100        129          4	 1	 5	 1	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O162	Ni	Ni2	O2	
+161200        126          4	 1	 5	 1	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O160	Ni	Ni2	O2	
+161300        127          4	 1	 5	 1	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O156	Ni	Ni2	O2	
+161400        129          4	 1	 5	 1	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O162	Ni	Ni2	O2	
+161500        126          4	 1	 5	 1	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O160	Ni	Ni2	O2	
+161600        127          4	 1	 5	 1	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O154	Ni	Ni2	O2	
+161700        130          4	 1	 5	 1	 123	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O150	Ni	Ni2	O2	
+161800        132          4	 1	 5	 1	 125	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O156	Ni	Ni2	O2	
+161900        129          4	 1	 5	 1	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni200O152	Ni	Ni2	O2	
+162000        131          4	 1	 5	 1	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O152	Ni	O2	
+162100        135          3	 1	 10	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O152	Ni	O2	
+162200        135          3	 1	 10	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O158	Ni	O2	
+162300        132          3	 1	 10	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O162	Ni	O2	
+162400        130          3	 1	 10	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O156	Ni	O2	
+162500        133          3	 1	 10	 122	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O162	Ni	O2	
+162600        130          3	 1	 10	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O158	Ni	O2	
+162700        132          3	 1	 10	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O152	Ni	O2	
+162800        135          3	 1	 10	 124	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O158	Ni	O2	
+162900        132          3	 1	 10	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni197O160	Ni	O2	
+163000        131          3	 1	 10	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+163100        125          3	 1	 5	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+163200        125          3	 1	 5	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+163300        125          3	 1	 5	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O160	Ni	O2	
+163400        126          3	 1	 5	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O158	Ni	O2	
+163500        127          3	 1	 5	 121	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+163600        125          3	 1	 5	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O164	Ni	O2	
+163700        124          3	 1	 5	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O166	Ni	O2	
+163800        123          3	 1	 5	 117	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O164	Ni	O2	
+163900        124          3	 1	 5	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+164000        125          3	 1	 5	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O164	Ni	O2	
+164100        124          3	 1	 5	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+164200        125          3	 1	 5	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O160	Ni	O2	
+164300        126          3	 1	 5	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O164	Ni	O2	
+164400        124          3	 1	 5	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O164	Ni	O2	
+164500        124          3	 1	 5	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O166	Ni	O2	
+164600        123          3	 1	 5	 117	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O160	Ni	O2	
+164700        126          3	 1	 5	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O160	Ni	O2	
+164800        126          3	 1	 5	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O168	Ni	O2	
+164900        122          3	 1	 5	 116	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O160	Ni	O2	
+165000        126          3	 1	 5	 120	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O166	Ni	O2	
+165100        123          3	 1	 5	 117	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O166	Ni	O2	
+165200        123          3	 1	 5	 117	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O166	Ni	O2	
+165300        123          3	 1	 5	 117	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O164	Ni	O2	
+165400        124          3	 1	 5	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O168	Ni	O2	
+165500        122          3	 1	 5	 116	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O166	Ni	O2	
+165600        123          3	 1	 5	 117	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O172	Ni	O2	
+165700        120          3	 1	 5	 114	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+165800        125          3	 1	 5	 119	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O164	Ni	O2	
+165900        124          3	 1	 5	 118	
+# Timestep     No_Moles     No_Specs     Pd745Ni202O162	Ni	O2	
+166000        125          3	 1	 5	 119	
